@@ -1,0 +1,1233 @@
+Month,Product,SalesValue,FuelCode
+Jul 2010,Regular (<95 RON) (ML),1016.7,U91
+Aug 2010,Regular (<95 RON) (ML),983.1,U91
+Sep 2010,Regular (<95 RON) (ML),891.4,U91
+Oct 2010,Regular (<95 RON) (ML),1009.0,U91
+Nov 2010,Regular (<95 RON) (ML),986.8,U91
+Dec 2010,Regular (<95 RON) (ML),1004.0,U91
+Jan 2011,Regular (<95 RON) (ML),845.5,U91
+Feb 2011,Regular (<95 RON) (ML),934.9,U91
+Mar 2011,Regular (<95 RON) (ML),963.8,U91
+Apr 2011,Regular (<95 RON) (ML),903.7,U91
+May 2011,Regular (<95 RON) (ML),925.6,U91
+Jun 2011,Regular (<95 RON) (ML),886.9,U91
+Jul 2011,Regular (<95 RON) (ML),955.3,U91
+Aug 2011,Regular (<95 RON) (ML),981.1,U91
+Sep 2011,Regular (<95 RON) (ML),883.4,U91
+Oct 2011,Regular (<95 RON) (ML),919.0,U91
+Nov 2011,Regular (<95 RON) (ML),984.0,U91
+Dec 2011,Regular (<95 RON) (ML),1001.0,U91
+Jan 2012,Regular (<95 RON) (ML),884.9,U91
+Feb 2012,Regular (<95 RON) (ML),942.8,U91
+Mar 2012,Regular (<95 RON) (ML),945.9,U91
+Apr 2012,Regular (<95 RON) (ML),872.5,U91
+May 2012,Regular (<95 RON) (ML),957.3,U91
+Jun 2012,Regular (<95 RON) (ML),880.3,U91
+Jul 2012,Regular (<95 RON) (ML),934.2,U91
+Aug 2012,Regular (<95 RON) (ML),954.3,U91
+Sep 2012,Regular (<95 RON) (ML),873.1,U91
+Oct 2012,Regular (<95 RON) (ML),926.5,U91
+Nov 2012,Regular (<95 RON) (ML),933.6,U91
+Dec 2012,Regular (<95 RON) (ML),963.9,U91
+Jan 2013,Regular (<95 RON) (ML),904.7,U91
+Feb 2013,Regular (<95 RON) (ML),913.8,U91
+Mar 2013,Regular (<95 RON) (ML),971.5,U91
+Apr 2013,Regular (<95 RON) (ML),907.6,U91
+May 2013,Regular (<95 RON) (ML),931.1,U91
+Jun 2013,Regular (<95 RON) (ML),909.6,U91
+Jul 2013,Regular (<95 RON) (ML),939.7,U91
+Aug 2013,Regular (<95 RON) (ML),952.1,U91
+Sep 2013,Regular (<95 RON) (ML),869.0,U91
+Oct 2013,Regular (<95 RON) (ML),921.1,U91
+Nov 2013,Regular (<95 RON) (ML),912.0,U91
+Dec 2013,Regular (<95 RON) (ML),951.1,U91
+Jan 2014,Regular (<95 RON) (ML),873.0,U91
+Feb 2014,Regular (<95 RON) (ML),875.1,U91
+Mar 2014,Regular (<95 RON) (ML),899.0,U91
+Apr 2014,Regular (<95 RON) (ML),876.9,U91
+May 2014,Regular (<95 RON) (ML),880.7,U91
+Jun 2014,Regular (<95 RON) (ML),834.7,U91
+Jul 2014,Regular (<95 RON) (ML),920.2,U91
+Aug 2014,Regular (<95 RON) (ML),925.0,U91
+Sep 2014,Regular (<95 RON) (ML),859.8,U91
+Oct 2014,Regular (<95 RON) (ML),902.9,U91
+Nov 2014,Regular (<95 RON) (ML),877.0,U91
+Dec 2014,Regular (<95 RON) (ML),944.3,U91
+Jan 2015,Regular (<95 RON) (ML),852.7,U91
+Feb 2015,Regular (<95 RON) (ML),861.9,U91
+Mar 2015,Regular (<95 RON) (ML),904.8,U91
+Apr 2015,Regular (<95 RON) (ML),861.6,U91
+May 2015,Regular (<95 RON) (ML),877.4,U91
+Jun 2015,Regular (<95 RON) (ML),850.9,U91
+Jul 2015,Regular (<95 RON) (ML),922.7,U91
+Aug 2015,Regular (<95 RON) (ML),914.8,U91
+Sep 2015,Regular (<95 RON) (ML),866.3,U91
+Oct 2015,Regular (<95 RON) (ML),902.9,U91
+Nov 2015,Regular (<95 RON) (ML),873.0,U91
+Dec 2015,Regular (<95 RON) (ML),951.9,U91
+Jan 2016,Regular (<95 RON) (ML),847.7,U91
+Feb 2016,Regular (<95 RON) (ML),895.4,U91
+Mar 2016,Regular (<95 RON) (ML),898.9,U91
+Apr 2016,Regular (<95 RON) (ML),845.8,U91
+May 2016,Regular (<95 RON) (ML),860.6,U91
+Jun 2016,Regular (<95 RON) (ML),831.0,U91
+Jul 2016,Regular (<95 RON) (ML),895.5,U91
+Aug 2016,Regular (<95 RON) (ML),906.7,U91
+Sep 2016,Regular (<95 RON) (ML),844.6,U91
+Oct 2016,Regular (<95 RON) (ML),872.9,U91
+Nov 2016,Regular (<95 RON) (ML),890.4,U91
+Dec 2016,Regular (<95 RON) (ML),936.2,U91
+Jan 2017,Regular (<95 RON) (ML),839.6,U91
+Feb 2017,Regular (<95 RON) (ML),865.0,U91
+Mar 2017,Regular (<95 RON) (ML),898.7,U91
+Apr 2017,Regular (<95 RON) (ML),813.6,U91
+May 2017,Regular (<95 RON) (ML),873.4,U91
+Jun 2017,Regular (<95 RON) (ML),821.4,U91
+Jul 2017,Regular (<95 RON) (ML),854.4,U91
+Aug 2017,Regular (<95 RON) (ML),851.4,U91
+Sep 2017,Regular (<95 RON) (ML),807.2,U91
+Oct 2017,Regular (<95 RON) (ML),822.1,U91
+Nov 2017,Regular (<95 RON) (ML),843.0,U91
+Dec 2017,Regular (<95 RON) (ML),895.0,U91
+Jan 2018,Regular (<95 RON) (ML),842.7,U91
+Feb 2018,Regular (<95 RON) (ML),800.4,U91
+Mar 2018,Regular (<95 RON) (ML),881.6,U91
+Apr 2018,Regular (<95 RON) (ML),800.1,U91
+May 2018,Regular (<95 RON) (ML),858.1,U91
+Jun 2018,Regular (<95 RON) (ML),812.7,U91
+Jul 2018,Regular (<95 RON) (ML),839.0,U91
+Aug 2018,Regular (<95 RON) (ML),853.1,U91
+Sep 2018,Regular (<95 RON) (ML),804.6,U91
+Oct 2018,Regular (<95 RON) (ML),867.3,U91
+Nov 2018,Regular (<95 RON) (ML),866.1,U91
+Dec 2018,Regular (<95 RON) (ML),854.7,U91
+Jan 2019,Regular (<95 RON) (ML),787.2,U91
+Feb 2019,Regular (<95 RON) (ML),761.3,U91
+Mar 2019,Regular (<95 RON) (ML),829.6,U91
+Apr 2019,Regular (<95 RON) (ML),791.1,U91
+May 2019,Regular (<95 RON) (ML),823.7,U91
+Jun 2019,Regular (<95 RON) (ML),784.3,U91
+Jul 2019,Regular (<95 RON) (ML),812.8,U91
+Aug 2019,Regular (<95 RON) (ML),826.4,U91
+Sep 2019,Regular (<95 RON) (ML),784.5,U91
+Oct 2019,Regular (<95 RON) (ML),847.9,U91
+Nov 2019,Regular (<95 RON) (ML),829.6,U91
+Dec 2019,Regular (<95 RON) (ML),843.1,U91
+Jan 2020,Regular (<95 RON) (ML),776.4,U91
+Feb 2020,Regular (<95 RON) (ML),774.0,U91
+Mar 2020,Regular (<95 RON) (ML),760.5,U91
+Apr 2020,Regular (<95 RON) (ML),459.9,U91
+May 2020,Regular (<95 RON) (ML),607.9,U91
+Jun 2020,Regular (<95 RON) (ML),689.6,U91
+Jul 2020,Regular (<95 RON) (ML),710.2,U91
+Aug 2020,Regular (<95 RON) (ML),648.2,U91
+Sep 2020,Regular (<95 RON) (ML),659.8,U91
+Oct 2020,Regular (<95 RON) (ML),715.9,U91
+Nov 2020,Regular (<95 RON) (ML),752.2,U91
+Dec 2020,Regular (<95 RON) (ML),820.9,U91
+Jan 2021,Regular (<95 RON) (ML),730.7,U91
+Feb 2021,Regular (<95 RON) (ML),707.9,U91
+Mar 2021,Regular (<95 RON) (ML),811.7,U91
+Apr 2021,Regular (<95 RON) (ML),758.7,U91
+May 2021,Regular (<95 RON) (ML),781.4,U91
+Jun 2021,Regular (<95 RON) (ML),716.5,U91
+Jul 2021,Regular (<95 RON) (ML),663.6,U91
+Aug 2021,Regular (<95 RON) (ML),619.8,U91
+Sep 2021,Regular (<95 RON) (ML),617.5,U91
+Oct 2021,Regular (<95 RON) (ML),693.1,U91
+Nov 2021,Regular (<95 RON) (ML),780.4,U91
+Dec 2021,Regular (<95 RON) (ML),818.2,U91
+Jan 2022,Regular (<95 RON) (ML),714.6,U91
+Feb 2022,Regular (<95 RON) (ML),708.3,U91
+Mar 2022,Regular (<95 RON) (ML),784.1,U91
+Apr 2022,Regular (<95 RON) (ML),716.6,U91
+May 2022,Regular (<95 RON) (ML),761.1,U91
+Jun 2022,Regular (<95 RON) (ML),744.2,U91
+Jul 2022,Regular (<95 RON) (ML),766.4,U91
+Aug 2022,Regular (<95 RON) (ML),765.0,U91
+Sep 2022,Regular (<95 RON) (ML),781.3,U91
+Oct 2022,Regular (<95 RON) (ML),740.6,U91
+Nov 2022,Regular (<95 RON) (ML),775.5,U91
+Dec 2022,Regular (<95 RON) (ML),816.9,U91
+Jan 2023,Regular (<95 RON) (ML),721.7,U91
+Feb 2023,Regular (<95 RON) (ML),700.9,U91
+Mar 2023,Regular (<95 RON) (ML),798.7,U91
+Apr 2023,Regular (<95 RON) (ML),710.0,U91
+May 2023,Regular (<95 RON) (ML),774.9,U91
+Jun 2023,Regular (<95 RON) (ML),711.0,U91
+Jul 2023,Regular (<95 RON) (ML),718.6,U91
+Aug 2023,Regular (<95 RON) (ML),752.6,U91
+Sep 2023,Regular (<95 RON) (ML),729.1,U91
+Oct 2023,Regular (<95 RON) (ML),772.8,U91
+Nov 2023,Regular (<95 RON) (ML),759.8,U91
+Dec 2023,Regular (<95 RON) (ML),766.8,U91
+Jan 2024,Regular (<95 RON) (ML),742.9,U91
+Feb 2024,Regular (<95 RON) (ML),735.2,U91
+Mar 2024,Regular (<95 RON) (ML),781.7,U91
+Apr 2024,Regular (<95 RON) (ML),712.7,U91
+May 2024,Regular (<95 RON) (ML),779.7,U91
+Jun 2024,Regular (<95 RON) (ML),703.2,U91
+Jul 2024,Regular (<95 RON) (ML),745.8,U91
+Aug 2024,Regular (<95 RON) (ML),750.3,U91
+Sep 2024,Regular (<95 RON) (ML),720.0,U91
+Oct 2024,Regular (<95 RON) (ML),767.4,U91
+Nov 2024,Regular (<95 RON) (ML),749.7,U91
+Dec 2024,Regular (<95 RON) (ML),770.8,U91
+Jan 2025,Regular (<95 RON) (ML),714.7,U91
+Feb 2025,Regular (<95 RON) (ML),680.2,U91
+Jul 2010,Premium (95-97 RON) (ML),174.0,P95
+Aug 2010,Premium (95-97 RON) (ML),182.9,P95
+Sep 2010,Premium (95-97 RON) (ML),173.7,P95
+Oct 2010,Premium (95-97 RON) (ML),187.5,P95
+Nov 2010,Premium (95-97 RON) (ML),190.0,P95
+Dec 2010,Premium (95-97 RON) (ML),214.0,P95
+Jan 2011,Premium (95-97 RON) (ML),179.9,P95
+Feb 2011,Premium (95-97 RON) (ML),189.0,P95
+Mar 2011,Premium (95-97 RON) (ML),192.3,P95
+Apr 2011,Premium (95-97 RON) (ML),183.0,P95
+May 2011,Premium (95-97 RON) (ML),186.3,P95
+Jun 2011,Premium (95-97 RON) (ML),179.9,P95
+Jul 2011,Premium (95-97 RON) (ML),194.2,P95
+Aug 2011,Premium (95-97 RON) (ML),203.6,P95
+Sep 2011,Premium (95-97 RON) (ML),193.3,P95
+Oct 2011,Premium (95-97 RON) (ML),195.9,P95
+Nov 2011,Premium (95-97 RON) (ML),212.4,P95
+Dec 2011,Premium (95-97 RON) (ML),221.5,P95
+Jan 2012,Premium (95-97 RON) (ML),198.9,P95
+Feb 2012,Premium (95-97 RON) (ML),211.8,P95
+Mar 2012,Premium (95-97 RON) (ML),210.0,P95
+Apr 2012,Premium (95-97 RON) (ML),194.3,P95
+May 2012,Premium (95-97 RON) (ML),207.8,P95
+Jun 2012,Premium (95-97 RON) (ML),191.8,P95
+Jul 2012,Premium (95-97 RON) (ML),204.0,P95
+Aug 2012,Premium (95-97 RON) (ML),213.2,P95
+Sep 2012,Premium (95-97 RON) (ML),197.6,P95
+Oct 2012,Premium (95-97 RON) (ML),204.2,P95
+Nov 2012,Premium (95-97 RON) (ML),206.1,P95
+Dec 2012,Premium (95-97 RON) (ML),226.5,P95
+Jan 2013,Premium (95-97 RON) (ML),203.3,P95
+Feb 2013,Premium (95-97 RON) (ML),200.9,P95
+Mar 2013,Premium (95-97 RON) (ML),212.9,P95
+Apr 2013,Premium (95-97 RON) (ML),201.7,P95
+May 2013,Premium (95-97 RON) (ML),202.9,P95
+Jun 2013,Premium (95-97 RON) (ML),192.4,P95
+Jul 2013,Premium (95-97 RON) (ML),201.5,P95
+Aug 2013,Premium (95-97 RON) (ML),205.9,P95
+Sep 2013,Premium (95-97 RON) (ML),188.7,P95
+Oct 2013,Premium (95-97 RON) (ML),201.6,P95
+Nov 2013,Premium (95-97 RON) (ML),200.8,P95
+Dec 2013,Premium (95-97 RON) (ML),216.6,P95
+Jan 2014,Premium (95-97 RON) (ML),194.7,P95
+Feb 2014,Premium (95-97 RON) (ML),198.1,P95
+Mar 2014,Premium (95-97 RON) (ML),200.1,P95
+Apr 2014,Premium (95-97 RON) (ML),193.1,P95
+May 2014,Premium (95-97 RON) (ML),194.7,P95
+Jun 2014,Premium (95-97 RON) (ML),180.9,P95
+Jul 2014,Premium (95-97 RON) (ML),200.4,P95
+Aug 2014,Premium (95-97 RON) (ML),201.2,P95
+Sep 2014,Premium (95-97 RON) (ML),187.9,P95
+Oct 2014,Premium (95-97 RON) (ML),198.7,P95
+Nov 2014,Premium (95-97 RON) (ML),194.7,P95
+Dec 2014,Premium (95-97 RON) (ML),215.6,P95
+Jan 2015,Premium (95-97 RON) (ML),192.9,P95
+Feb 2015,Premium (95-97 RON) (ML),194.0,P95
+Mar 2015,Premium (95-97 RON) (ML),199.0,P95
+Apr 2015,Premium (95-97 RON) (ML),187.8,P95
+May 2015,Premium (95-97 RON) (ML),190.7,P95
+Jun 2015,Premium (95-97 RON) (ML),184.3,P95
+Jul 2015,Premium (95-97 RON) (ML),203.2,P95
+Aug 2015,Premium (95-97 RON) (ML),202.9,P95
+Sep 2015,Premium (95-97 RON) (ML),188.8,P95
+Oct 2015,Premium (95-97 RON) (ML),199.8,P95
+Nov 2015,Premium (95-97 RON) (ML),191.6,P95
+Dec 2015,Premium (95-97 RON) (ML),216.2,P95
+Jan 2016,Premium (95-97 RON) (ML),186.8,P95
+Feb 2016,Premium (95-97 RON) (ML),199.7,P95
+Mar 2016,Premium (95-97 RON) (ML),197.9,P95
+Apr 2016,Premium (95-97 RON) (ML),182.6,P95
+May 2016,Premium (95-97 RON) (ML),183.6,P95
+Jun 2016,Premium (95-97 RON) (ML),174.0,P95
+Jul 2016,Premium (95-97 RON) (ML),193.5,P95
+Aug 2016,Premium (95-97 RON) (ML),198.3,P95
+Sep 2016,Premium (95-97 RON) (ML),181.6,P95
+Oct 2016,Premium (95-97 RON) (ML),187.7,P95
+Nov 2016,Premium (95-97 RON) (ML),193.6,P95
+Dec 2016,Premium (95-97 RON) (ML),205.6,P95
+Jan 2017,Premium (95-97 RON) (ML),182.1,P95
+Feb 2017,Premium (95-97 RON) (ML),191.4,P95
+Mar 2017,Premium (95-97 RON) (ML),192.7,P95
+Apr 2017,Premium (95-97 RON) (ML),176.9,P95
+May 2017,Premium (95-97 RON) (ML),186.3,P95
+Jun 2017,Premium (95-97 RON) (ML),175.8,P95
+Jul 2017,Premium (95-97 RON) (ML),190.9,P95
+Aug 2017,Premium (95-97 RON) (ML),190.8,P95
+Sep 2017,Premium (95-97 RON) (ML),177.6,P95
+Oct 2017,Premium (95-97 RON) (ML),180.5,P95
+Nov 2017,Premium (95-97 RON) (ML),182.9,P95
+Dec 2017,Premium (95-97 RON) (ML),199.1,P95
+Jan 2018,Premium (95-97 RON) (ML),190.7,P95
+Feb 2018,Premium (95-97 RON) (ML),180.3,P95
+Mar 2018,Premium (95-97 RON) (ML),198.8,P95
+Apr 2018,Premium (95-97 RON) (ML),179.3,P95
+May 2018,Premium (95-97 RON) (ML),187.9,P95
+Jun 2018,Premium (95-97 RON) (ML),176.1,P95
+Jul 2018,Premium (95-97 RON) (ML),182.7,P95
+Aug 2018,Premium (95-97 RON) (ML),186.5,P95
+Sep 2018,Premium (95-97 RON) (ML),174.8,P95
+Oct 2018,Premium (95-97 RON) (ML),183.9,P95
+Nov 2018,Premium (95-97 RON) (ML),190.4,P95
+Dec 2018,Premium (95-97 RON) (ML),193.3,P95
+Jan 2019,Premium (95-97 RON) (ML),181.6,P95
+Feb 2019,Premium (95-97 RON) (ML),174.3,P95
+Mar 2019,Premium (95-97 RON) (ML),189.9,P95
+Apr 2019,Premium (95-97 RON) (ML),181.0,P95
+May 2019,Premium (95-97 RON) (ML),184.2,P95
+Jun 2019,Premium (95-97 RON) (ML),172.8,P95
+Jul 2019,Premium (95-97 RON) (ML),179.9,P95
+Aug 2019,Premium (95-97 RON) (ML),183.1,P95
+Sep 2019,Premium (95-97 RON) (ML),175.8,P95
+Oct 2019,Premium (95-97 RON) (ML),184.1,P95
+Nov 2019,Premium (95-97 RON) (ML),182.2,P95
+Dec 2019,Premium (95-97 RON) (ML),190.0,P95
+Jan 2020,Premium (95-97 RON) (ML),172.4,P95
+Feb 2020,Premium (95-97 RON) (ML),173.1,P95
+Mar 2020,Premium (95-97 RON) (ML),174.5,P95
+Apr 2020,Premium (95-97 RON) (ML),96.9,P95
+May 2020,Premium (95-97 RON) (ML),133.1,P95
+Jun 2020,Premium (95-97 RON) (ML),151.5,P95
+Jul 2020,Premium (95-97 RON) (ML),161.9,P95
+Aug 2020,Premium (95-97 RON) (ML),150.6,P95
+Sep 2020,Premium (95-97 RON) (ML),156.5,P95
+Oct 2020,Premium (95-97 RON) (ML),166.4,P95
+Nov 2020,Premium (95-97 RON) (ML),176.4,P95
+Dec 2020,Premium (95-97 RON) (ML),186.3,P95
+Jan 2021,Premium (95-97 RON) (ML),164.2,P95
+Feb 2021,Premium (95-97 RON) (ML),160.7,P95
+Mar 2021,Premium (95-97 RON) (ML),180.8,P95
+Apr 2021,Premium (95-97 RON) (ML),170.2,P95
+May 2021,Premium (95-97 RON) (ML),175.9,P95
+Jun 2021,Premium (95-97 RON) (ML),162.2,P95
+Jul 2021,Premium (95-97 RON) (ML),136.5,P95
+Aug 2021,Premium (95-97 RON) (ML),124.2,P95
+Sep 2021,Premium (95-97 RON) (ML),129.7,P95
+Oct 2021,Premium (95-97 RON) (ML),150.4,P95
+Nov 2021,Premium (95-97 RON) (ML),169.2,P95
+Dec 2021,Premium (95-97 RON) (ML),182.4,P95
+Jan 2022,Premium (95-97 RON) (ML),159.2,P95
+Feb 2022,Premium (95-97 RON) (ML),155.5,P95
+Mar 2022,Premium (95-97 RON) (ML),164.9,P95
+Apr 2022,Premium (95-97 RON) (ML),157.4,P95
+May 2022,Premium (95-97 RON) (ML),161.0,P95
+Jun 2022,Premium (95-97 RON) (ML),160.0,P95
+Jul 2022,Premium (95-97 RON) (ML),159.5,P95
+Aug 2022,Premium (95-97 RON) (ML),165.5,P95
+Sep 2022,Premium (95-97 RON) (ML),174.9,P95
+Oct 2022,Premium (95-97 RON) (ML),163.0,P95
+Nov 2022,Premium (95-97 RON) (ML),167.9,P95
+Dec 2022,Premium (95-97 RON) (ML),181.0,P95
+Jan 2023,Premium (95-97 RON) (ML),165.1,P95
+Feb 2023,Premium (95-97 RON) (ML),160.8,P95
+Mar 2023,Premium (95-97 RON) (ML),184.3,P95
+Apr 2023,Premium (95-97 RON) (ML),159.8,P95
+May 2023,Premium (95-97 RON) (ML),178.4,P95
+Jun 2023,Premium (95-97 RON) (ML),164.5,P95
+Jul 2023,Premium (95-97 RON) (ML),164.7,P95
+Aug 2023,Premium (95-97 RON) (ML),169.1,P95
+Sep 2023,Premium (95-97 RON) (ML),164.5,P95
+Oct 2023,Premium (95-97 RON) (ML),174.5,P95
+Nov 2023,Premium (95-97 RON) (ML),171.9,P95
+Dec 2023,Premium (95-97 RON) (ML),178.5,P95
+Jan 2024,Premium (95-97 RON) (ML),171.4,P95
+Feb 2024,Premium (95-97 RON) (ML),166.1,P95
+Mar 2024,Premium (95-97 RON) (ML),181.3,P95
+Apr 2024,Premium (95-97 RON) (ML),164.4,P95
+May 2024,Premium (95-97 RON) (ML),176.0,P95
+Jun 2024,Premium (95-97 RON) (ML),157.4,P95
+Jul 2024,Premium (95-97 RON) (ML),165.4,P95
+Aug 2024,Premium (95-97 RON) (ML),170.6,P95
+Sep 2024,Premium (95-97 RON) (ML),165.5,P95
+Oct 2024,Premium (95-97 RON) (ML),175.0,P95
+Nov 2024,Premium (95-97 RON) (ML),170.8,P95
+Dec 2024,Premium (95-97 RON) (ML),179.0,P95
+Jan 2025,Premium (95-97 RON) (ML),162.0,P95
+Feb 2025,Premium (95-97 RON) (ML),152.7,P95
+Jul 2010,Premium (98+ RON) (ML),156.0,P98
+Aug 2010,Premium (98+ RON) (ML),162.8,P98
+Sep 2010,Premium (98+ RON) (ML),158.4,P98
+Oct 2010,Premium (98+ RON) (ML),162.8,P98
+Nov 2010,Premium (98+ RON) (ML),178.8,P98
+Dec 2010,Premium (98+ RON) (ML),190.2,P98
+Jan 2011,Premium (98+ RON) (ML),157.3,P98
+Feb 2011,Premium (98+ RON) (ML),157.5,P98
+Mar 2011,Premium (98+ RON) (ML),167.9,P98
+Apr 2011,Premium (98+ RON) (ML),161.5,P98
+May 2011,Premium (98+ RON) (ML),165.0,P98
+Jun 2011,Premium (98+ RON) (ML),163.3,P98
+Jul 2011,Premium (98+ RON) (ML),171.7,P98
+Aug 2011,Premium (98+ RON) (ML),187.5,P98
+Sep 2011,Premium (98+ RON) (ML),176.6,P98
+Oct 2011,Premium (98+ RON) (ML),178.9,P98
+Nov 2011,Premium (98+ RON) (ML),192.2,P98
+Dec 2011,Premium (98+ RON) (ML),203.1,P98
+Jan 2012,Premium (98+ RON) (ML),189.3,P98
+Feb 2012,Premium (98+ RON) (ML),192.2,P98
+Mar 2012,Premium (98+ RON) (ML),198.2,P98
+Apr 2012,Premium (98+ RON) (ML),179.4,P98
+May 2012,Premium (98+ RON) (ML),195.1,P98
+Jun 2012,Premium (98+ RON) (ML),187.0,P98
+Jul 2012,Premium (98+ RON) (ML),198.6,P98
+Aug 2012,Premium (98+ RON) (ML),203.2,P98
+Sep 2012,Premium (98+ RON) (ML),195.1,P98
+Oct 2012,Premium (98+ RON) (ML),201.5,P98
+Nov 2012,Premium (98+ RON) (ML),210.5,P98
+Dec 2012,Premium (98+ RON) (ML),211.2,P98
+Jan 2013,Premium (98+ RON) (ML),211.9,P98
+Feb 2013,Premium (98+ RON) (ML),194.1,P98
+Mar 2013,Premium (98+ RON) (ML),216.9,P98
+Apr 2013,Premium (98+ RON) (ML),209.8,P98
+May 2013,Premium (98+ RON) (ML),217.3,P98
+Jun 2013,Premium (98+ RON) (ML),199.8,P98
+Jul 2013,Premium (98+ RON) (ML),213.2,P98
+Aug 2013,Premium (98+ RON) (ML),219.9,P98
+Sep 2013,Premium (98+ RON) (ML),206.0,P98
+Oct 2013,Premium (98+ RON) (ML),219.5,P98
+Nov 2013,Premium (98+ RON) (ML),226.6,P98
+Dec 2013,Premium (98+ RON) (ML),236.1,P98
+Jan 2014,Premium (98+ RON) (ML),212.7,P98
+Feb 2014,Premium (98+ RON) (ML),204.5,P98
+Mar 2014,Premium (98+ RON) (ML),220.5,P98
+Apr 2014,Premium (98+ RON) (ML),219.5,P98
+May 2014,Premium (98+ RON) (ML),220.1,P98
+Jun 2014,Premium (98+ RON) (ML),210.7,P98
+Jul 2014,Premium (98+ RON) (ML),221.7,P98
+Aug 2014,Premium (98+ RON) (ML),231.2,P98
+Sep 2014,Premium (98+ RON) (ML),221.3,P98
+Oct 2014,Premium (98+ RON) (ML),241.8,P98
+Nov 2014,Premium (98+ RON) (ML),241.2,P98
+Dec 2014,Premium (98+ RON) (ML),272.3,P98
+Jan 2015,Premium (98+ RON) (ML),257.8,P98
+Feb 2015,Premium (98+ RON) (ML),241.7,P98
+Mar 2015,Premium (98+ RON) (ML),254.5,P98
+Apr 2015,Premium (98+ RON) (ML),243.0,P98
+May 2015,Premium (98+ RON) (ML),243.9,P98
+Jun 2015,Premium (98+ RON) (ML),234.3,P98
+Jul 2015,Premium (98+ RON) (ML),251.9,P98
+Aug 2015,Premium (98+ RON) (ML),259.4,P98
+Sep 2015,Premium (98+ RON) (ML),254.8,P98
+Oct 2015,Premium (98+ RON) (ML),267.9,P98
+Nov 2015,Premium (98+ RON) (ML),263.5,P98
+Dec 2015,Premium (98+ RON) (ML),293.0,P98
+Jan 2016,Premium (98+ RON) (ML),266.1,P98
+Feb 2016,Premium (98+ RON) (ML),273.5,P98
+Mar 2016,Premium (98+ RON) (ML),285.2,P98
+Apr 2016,Premium (98+ RON) (ML),264.4,P98
+May 2016,Premium (98+ RON) (ML),266.2,P98
+Jun 2016,Premium (98+ RON) (ML),247.4,P98
+Jul 2016,Premium (98+ RON) (ML),268.9,P98
+Aug 2016,Premium (98+ RON) (ML),284.8,P98
+Sep 2016,Premium (98+ RON) (ML),268.9,P98
+Oct 2016,Premium (98+ RON) (ML),276.3,P98
+Nov 2016,Premium (98+ RON) (ML),281.6,P98
+Dec 2016,Premium (98+ RON) (ML),289.1,P98
+Jan 2017,Premium (98+ RON) (ML),260.4,P98
+Feb 2017,Premium (98+ RON) (ML),258.0,P98
+Mar 2017,Premium (98+ RON) (ML),283.4,P98
+Apr 2017,Premium (98+ RON) (ML),264.8,P98
+May 2017,Premium (98+ RON) (ML),278.0,P98
+Jun 2017,Premium (98+ RON) (ML),261.6,P98
+Jul 2017,Premium (98+ RON) (ML),278.7,P98
+Aug 2017,Premium (98+ RON) (ML),278.6,P98
+Sep 2017,Premium (98+ RON) (ML),265.9,P98
+Oct 2017,Premium (98+ RON) (ML),269.8,P98
+Nov 2017,Premium (98+ RON) (ML),265.5,P98
+Dec 2017,Premium (98+ RON) (ML),279.9,P98
+Jan 2018,Premium (98+ RON) (ML),263.3,P98
+Feb 2018,Premium (98+ RON) (ML),253.5,P98
+Mar 2018,Premium (98+ RON) (ML),281.7,P98
+Apr 2018,Premium (98+ RON) (ML),255.2,P98
+May 2018,Premium (98+ RON) (ML),261.0,P98
+Jun 2018,Premium (98+ RON) (ML),242.3,P98
+Jul 2018,Premium (98+ RON) (ML),256.6,P98
+Aug 2018,Premium (98+ RON) (ML),260.9,P98
+Sep 2018,Premium (98+ RON) (ML),241.7,P98
+Oct 2018,Premium (98+ RON) (ML),246.2,P98
+Nov 2018,Premium (98+ RON) (ML),270.0,P98
+Dec 2018,Premium (98+ RON) (ML),278.2,P98
+Jan 2019,Premium (98+ RON) (ML),267.1,P98
+Feb 2019,Premium (98+ RON) (ML),248.8,P98
+Mar 2019,Premium (98+ RON) (ML),266.2,P98
+Apr 2019,Premium (98+ RON) (ML),248.8,P98
+May 2019,Premium (98+ RON) (ML),251.5,P98
+Jun 2019,Premium (98+ RON) (ML),241.8,P98
+Jul 2019,Premium (98+ RON) (ML),252.3,P98
+Aug 2019,Premium (98+ RON) (ML),259.8,P98
+Sep 2019,Premium (98+ RON) (ML),246.3,P98
+Oct 2019,Premium (98+ RON) (ML),253.2,P98
+Nov 2019,Premium (98+ RON) (ML),254.8,P98
+Dec 2019,Premium (98+ RON) (ML),263.6,P98
+Jan 2020,Premium (98+ RON) (ML),243.4,P98
+Feb 2020,Premium (98+ RON) (ML),245.9,P98
+Mar 2020,Premium (98+ RON) (ML),259.1,P98
+Apr 2020,Premium (98+ RON) (ML),160.4,P98
+May 2020,Premium (98+ RON) (ML),222.4,P98
+Jun 2020,Premium (98+ RON) (ML),246.7,P98
+Jul 2020,Premium (98+ RON) (ML),255.5,P98
+Aug 2020,Premium (98+ RON) (ML),242.4,P98
+Sep 2020,Premium (98+ RON) (ML),251.4,P98
+Oct 2020,Premium (98+ RON) (ML),271.0,P98
+Nov 2020,Premium (98+ RON) (ML),287.0,P98
+Dec 2020,Premium (98+ RON) (ML),305.6,P98
+Jan 2021,Premium (98+ RON) (ML),278.3,P98
+Feb 2021,Premium (98+ RON) (ML),258.5,P98
+Mar 2021,Premium (98+ RON) (ML),286.4,P98
+Apr 2021,Premium (98+ RON) (ML),271.1,P98
+May 2021,Premium (98+ RON) (ML),283.2,P98
+Jun 2021,Premium (98+ RON) (ML),256.5,P98
+Jul 2021,Premium (98+ RON) (ML),209.3,P98
+Aug 2021,Premium (98+ RON) (ML),187.1,P98
+Sep 2021,Premium (98+ RON) (ML),195.2,P98
+Oct 2021,Premium (98+ RON) (ML),231.0,P98
+Nov 2021,Premium (98+ RON) (ML),258.2,P98
+Dec 2021,Premium (98+ RON) (ML),283.5,P98
+Jan 2022,Premium (98+ RON) (ML),245.8,P98
+Feb 2022,Premium (98+ RON) (ML),227.6,P98
+Mar 2022,Premium (98+ RON) (ML),231.8,P98
+Apr 2022,Premium (98+ RON) (ML),240.2,P98
+May 2022,Premium (98+ RON) (ML),234.5,P98
+Jun 2022,Premium (98+ RON) (ML),221.5,P98
+Jul 2022,Premium (98+ RON) (ML),229.3,P98
+Aug 2022,Premium (98+ RON) (ML),245.9,P98
+Sep 2022,Premium (98+ RON) (ML),253.6,P98
+Oct 2022,Premium (98+ RON) (ML),236.1,P98
+Nov 2022,Premium (98+ RON) (ML),243.7,P98
+Dec 2022,Premium (98+ RON) (ML),270.7,P98
+Jan 2023,Premium (98+ RON) (ML),261.3,P98
+Feb 2023,Premium (98+ RON) (ML),247.7,P98
+Mar 2023,Premium (98+ RON) (ML),281.3,P98
+Apr 2023,Premium (98+ RON) (ML),254.8,P98
+May 2023,Premium (98+ RON) (ML),275.2,P98
+Jun 2023,Premium (98+ RON) (ML),253.3,P98
+Jul 2023,Premium (98+ RON) (ML),261.0,P98
+Aug 2023,Premium (98+ RON) (ML),259.0,P98
+Sep 2023,Premium (98+ RON) (ML),250.1,P98
+Oct 2023,Premium (98+ RON) (ML),266.7,P98
+Nov 2023,Premium (98+ RON) (ML),267.7,P98
+Dec 2023,Premium (98+ RON) (ML),282.9,P98
+Jan 2024,Premium (98+ RON) (ML),271.3,P98
+Feb 2024,Premium (98+ RON) (ML),260.9,P98
+Mar 2024,Premium (98+ RON) (ML),281.4,P98
+Apr 2024,Premium (98+ RON) (ML),253.1,P98
+May 2024,Premium (98+ RON) (ML),273.9,P98
+Jun 2024,Premium (98+ RON) (ML),255.9,P98
+Jul 2024,Premium (98+ RON) (ML),270.9,P98
+Aug 2024,Premium (98+ RON) (ML),283.8,P98
+Sep 2024,Premium (98+ RON) (ML),284.1,P98
+Oct 2024,Premium (98+ RON) (ML),298.9,P98
+Nov 2024,Premium (98+ RON) (ML),290.3,P98
+Dec 2024,Premium (98+ RON) (ML),305.8,P98
+Jan 2025,Premium (98+ RON) (ML),276.1,P98
+Feb 2025,Premium (98+ RON) (ML),265.7,P98
+Jul 2010,Ethanol-blended fuel (ML),275.2,E10
+Aug 2010,Ethanol-blended fuel (ML),300.2,E10
+Sep 2010,Ethanol-blended fuel (ML),285.5,E10
+Oct 2010,Ethanol-blended fuel (ML),286.8,E10
+Nov 2010,Ethanol-blended fuel (ML),292.6,E10
+Dec 2010,Ethanol-blended fuel (ML),335.1,E10
+Jan 2011,Ethanol-blended fuel (ML),267.5,E10
+Feb 2011,Ethanol-blended fuel (ML),267.7,E10
+Mar 2011,Ethanol-blended fuel (ML),287.2,E10
+Apr 2011,Ethanol-blended fuel (ML),252.6,E10
+May 2011,Ethanol-blended fuel (ML),261.3,E10
+Jun 2011,Ethanol-blended fuel (ML),249.1,E10
+Jul 2011,Ethanol-blended fuel (ML),261.2,E10
+Aug 2011,Ethanol-blended fuel (ML),266.9,E10
+Sep 2011,Ethanol-blended fuel (ML),242.0,E10
+Oct 2011,Ethanol-blended fuel (ML),234.9,E10
+Nov 2011,Ethanol-blended fuel (ML),248.0,E10
+Dec 2011,Ethanol-blended fuel (ML),238.6,E10
+Jan 2012,Ethanol-blended fuel (ML),207.1,E10
+Feb 2012,Ethanol-blended fuel (ML),225.8,E10
+Mar 2012,Ethanol-blended fuel (ML),232.4,E10
+Apr 2012,Ethanol-blended fuel (ML),211.8,E10
+May 2012,Ethanol-blended fuel (ML),237.5,E10
+Jun 2012,Ethanol-blended fuel (ML),216.6,E10
+Jul 2012,Ethanol-blended fuel (ML),230.5,E10
+Aug 2012,Ethanol-blended fuel (ML),237.6,E10
+Sep 2012,Ethanol-blended fuel (ML),216.6,E10
+Oct 2012,Ethanol-blended fuel (ML),225.0,E10
+Nov 2012,Ethanol-blended fuel (ML),223.9,E10
+Dec 2012,Ethanol-blended fuel (ML),230.8,E10
+Jan 2013,Ethanol-blended fuel (ML),209.1,E10
+Feb 2013,Ethanol-blended fuel (ML),213.6,E10
+Mar 2013,Ethanol-blended fuel (ML),227.0,E10
+Apr 2013,Ethanol-blended fuel (ML),206.2,E10
+May 2013,Ethanol-blended fuel (ML),206.8,E10
+Jun 2013,Ethanol-blended fuel (ML),209.4,E10
+Jul 2013,Ethanol-blended fuel (ML),226.2,E10
+Aug 2013,Ethanol-blended fuel (ML),223.9,E10
+Sep 2013,Ethanol-blended fuel (ML),199.9,E10
+Oct 2013,Ethanol-blended fuel (ML),207.7,E10
+Nov 2013,Ethanol-blended fuel (ML),207.3,E10
+Dec 2013,Ethanol-blended fuel (ML),215.6,E10
+Jan 2014,Ethanol-blended fuel (ML),196.6,E10
+Feb 2014,Ethanol-blended fuel (ML),198.3,E10
+Mar 2014,Ethanol-blended fuel (ML),202.1,E10
+Apr 2014,Ethanol-blended fuel (ML),194.8,E10
+May 2014,Ethanol-blended fuel (ML),195.6,E10
+Jun 2014,Ethanol-blended fuel (ML),188.0,E10
+Jul 2014,Ethanol-blended fuel (ML),212.3,E10
+Aug 2014,Ethanol-blended fuel (ML),206.4,E10
+Sep 2014,Ethanol-blended fuel (ML),190.2,E10
+Oct 2014,Ethanol-blended fuel (ML),200.8,E10
+Nov 2014,Ethanol-blended fuel (ML),194.6,E10
+Dec 2014,Ethanol-blended fuel (ML),204.9,E10
+Jan 2015,Ethanol-blended fuel (ML),185.3,E10
+Feb 2015,Ethanol-blended fuel (ML),189.7,E10
+Mar 2015,Ethanol-blended fuel (ML),196.3,E10
+Apr 2015,Ethanol-blended fuel (ML),174.2,E10
+May 2015,Ethanol-blended fuel (ML),175.8,E10
+Jun 2015,Ethanol-blended fuel (ML),167.8,E10
+Jul 2015,Ethanol-blended fuel (ML),183.1,E10
+Aug 2015,Ethanol-blended fuel (ML),178.0,E10
+Sep 2015,Ethanol-blended fuel (ML),165.5,E10
+Oct 2015,Ethanol-blended fuel (ML),171.0,E10
+Nov 2015,Ethanol-blended fuel (ML),167.8,E10
+Dec 2015,Ethanol-blended fuel (ML),179.9,E10
+Jan 2016,Ethanol-blended fuel (ML),154.0,E10
+Feb 2016,Ethanol-blended fuel (ML),164.0,E10
+Mar 2016,Ethanol-blended fuel (ML),167.9,E10
+Apr 2016,Ethanol-blended fuel (ML),153.3,E10
+May 2016,Ethanol-blended fuel (ML),156.1,E10
+Jun 2016,Ethanol-blended fuel (ML),149.7,E10
+Jul 2016,Ethanol-blended fuel (ML),162.4,E10
+Aug 2016,Ethanol-blended fuel (ML),164.1,E10
+Sep 2016,Ethanol-blended fuel (ML),153.0,E10
+Oct 2016,Ethanol-blended fuel (ML),161.7,E10
+Nov 2016,Ethanol-blended fuel (ML),170.0,E10
+Dec 2016,Ethanol-blended fuel (ML),182.5,E10
+Jan 2017,Ethanol-blended fuel (ML),170.2,E10
+Feb 2017,Ethanol-blended fuel (ML),179.6,E10
+Mar 2017,Ethanol-blended fuel (ML),189.0,E10
+Apr 2017,Ethanol-blended fuel (ML),170.4,E10
+May 2017,Ethanol-blended fuel (ML),184.2,E10
+Jun 2017,Ethanol-blended fuel (ML),176.1,E10
+Jul 2017,Ethanol-blended fuel (ML),183.2,E10
+Aug 2017,Ethanol-blended fuel (ML),187.7,E10
+Sep 2017,Ethanol-blended fuel (ML),180.0,E10
+Oct 2017,Ethanol-blended fuel (ML),184.9,E10
+Nov 2017,Ethanol-blended fuel (ML),196.2,E10
+Dec 2017,Ethanol-blended fuel (ML),209.8,E10
+Jan 2018,Ethanol-blended fuel (ML),191.1,E10
+Feb 2018,Ethanol-blended fuel (ML),185.3,E10
+Mar 2018,Ethanol-blended fuel (ML),207.5,E10
+Apr 2018,Ethanol-blended fuel (ML),191.6,E10
+May 2018,Ethanol-blended fuel (ML),213.8,E10
+Jun 2018,Ethanol-blended fuel (ML),204.5,E10
+Jul 2018,Ethanol-blended fuel (ML),206.3,E10
+Aug 2018,Ethanol-blended fuel (ML),211.0,E10
+Sep 2018,Ethanol-blended fuel (ML),199.0,E10
+Oct 2018,Ethanol-blended fuel (ML),216.1,E10
+Nov 2018,Ethanol-blended fuel (ML),221.1,E10
+Dec 2018,Ethanol-blended fuel (ML),205.2,E10
+Jan 2019,Ethanol-blended fuel (ML),186.9,E10
+Feb 2019,Ethanol-blended fuel (ML),186.6,E10
+Mar 2019,Ethanol-blended fuel (ML),203.5,E10
+Apr 2019,Ethanol-blended fuel (ML),195.5,E10
+May 2019,Ethanol-blended fuel (ML),208.6,E10
+Jun 2019,Ethanol-blended fuel (ML),195.2,E10
+Jul 2019,Ethanol-blended fuel (ML),200.3,E10
+Aug 2019,Ethanol-blended fuel (ML),204.2,E10
+Sep 2019,Ethanol-blended fuel (ML),191.9,E10
+Oct 2019,Ethanol-blended fuel (ML),204.4,E10
+Nov 2019,Ethanol-blended fuel (ML),206.2,E10
+Dec 2019,Ethanol-blended fuel (ML),210.2,E10
+Jan 2020,Ethanol-blended fuel (ML),192.7,E10
+Feb 2020,Ethanol-blended fuel (ML),194.6,E10
+Mar 2020,Ethanol-blended fuel (ML),182.3,E10
+Apr 2020,Ethanol-blended fuel (ML),94.0,E10
+May 2020,Ethanol-blended fuel (ML),129.8,E10
+Jun 2020,Ethanol-blended fuel (ML),147.9,E10
+Jul 2020,Ethanol-blended fuel (ML),152.0,E10
+Aug 2020,Ethanol-blended fuel (ML),142.2,E10
+Sep 2020,Ethanol-blended fuel (ML),144.9,E10
+Oct 2020,Ethanol-blended fuel (ML),153.1,E10
+Nov 2020,Ethanol-blended fuel (ML),162.0,E10
+Dec 2020,Ethanol-blended fuel (ML),172.8,E10
+Jan 2021,Ethanol-blended fuel (ML),147.1,E10
+Feb 2021,Ethanol-blended fuel (ML),154.5,E10
+Mar 2021,Ethanol-blended fuel (ML),177.8,E10
+Apr 2021,Ethanol-blended fuel (ML),171.7,E10
+May 2021,Ethanol-blended fuel (ML),182.5,E10
+Jun 2021,Ethanol-blended fuel (ML),171.6,E10
+Jul 2021,Ethanol-blended fuel (ML),136.6,E10
+Aug 2021,Ethanol-blended fuel (ML),117.7,E10
+Sep 2021,Ethanol-blended fuel (ML),127.1,E10
+Oct 2021,Ethanol-blended fuel (ML),155.4,E10
+Nov 2021,Ethanol-blended fuel (ML),173.8,E10
+Dec 2021,Ethanol-blended fuel (ML),181.1,E10
+Jan 2022,Ethanol-blended fuel (ML),154.9,E10
+Feb 2022,Ethanol-blended fuel (ML),159.6,E10
+Mar 2022,Ethanol-blended fuel (ML),179.9,E10
+Apr 2022,Ethanol-blended fuel (ML),167.3,E10
+May 2022,Ethanol-blended fuel (ML),175.1,E10
+Jun 2022,Ethanol-blended fuel (ML),176.9,E10
+Jul 2022,Ethanol-blended fuel (ML),169.9,E10
+Aug 2022,Ethanol-blended fuel (ML),172.0,E10
+Sep 2022,Ethanol-blended fuel (ML),173.4,E10
+Oct 2022,Ethanol-blended fuel (ML),168.0,E10
+Nov 2022,Ethanol-blended fuel (ML),175.0,E10
+Dec 2022,Ethanol-blended fuel (ML),176.2,E10
+Jan 2023,Ethanol-blended fuel (ML),153.9,E10
+Feb 2023,Ethanol-blended fuel (ML),156.1,E10
+Mar 2023,Ethanol-blended fuel (ML),175.4,E10
+Apr 2023,Ethanol-blended fuel (ML),154.8,E10
+May 2023,Ethanol-blended fuel (ML),168.4,E10
+Jun 2023,Ethanol-blended fuel (ML),158.2,E10
+Jul 2023,Ethanol-blended fuel (ML),159.7,E10
+Aug 2023,Ethanol-blended fuel (ML),165.0,E10
+Sep 2023,Ethanol-blended fuel (ML),163.9,E10
+Oct 2023,Ethanol-blended fuel (ML),169.5,E10
+Nov 2023,Ethanol-blended fuel (ML),168.2,E10
+Dec 2023,Ethanol-blended fuel (ML),165.8,E10
+Jan 2024,Ethanol-blended fuel (ML),160.1,E10
+Feb 2024,Ethanol-blended fuel (ML),162.2,E10
+Mar 2024,Ethanol-blended fuel (ML),174.6,E10
+Apr 2024,Ethanol-blended fuel (ML),154.4,E10
+May 2024,Ethanol-blended fuel (ML),169.2,E10
+Jun 2024,Ethanol-blended fuel (ML),153.9,E10
+Jul 2024,Ethanol-blended fuel (ML),158.7,E10
+Aug 2024,Ethanol-blended fuel (ML),159.3,E10
+Sep 2024,Ethanol-blended fuel (ML),150.0,E10
+Oct 2024,Ethanol-blended fuel (ML),156.6,E10
+Nov 2024,Ethanol-blended fuel (ML),155.3,E10
+Dec 2024,Ethanol-blended fuel (ML),158.4,E10
+Jan 2025,Ethanol-blended fuel (ML),144.7,E10
+Feb 2025,Ethanol-blended fuel (ML),139.0,E10
+Jul 2010,Diesel oil: total (ML),1736.0,DL
+Aug 2010,Diesel oil: total (ML),1745.4,DL
+Sep 2010,Diesel oil: total (ML),1719.2,DL
+Oct 2010,Diesel oil: total (ML),1811.0,DL
+Nov 2010,Diesel oil: total (ML),1889.1,DL
+Dec 2010,Diesel oil: total (ML),1727.1,DL
+Jan 2011,Diesel oil: total (ML),1597.0,DL
+Feb 2011,Diesel oil: total (ML),1694.1,DL
+Mar 2011,Diesel oil: total (ML),1856.0,DL
+Apr 2011,Diesel oil: total (ML),1743.9,DL
+May 2011,Diesel oil: total (ML),1980.7,DL
+Jun 2011,Diesel oil: total (ML),1934.8,DL
+Jul 2011,Diesel oil: total (ML),1916.7,DL
+Aug 2011,Diesel oil: total (ML),1968.2,DL
+Sep 2011,Diesel oil: total (ML),1996.8,DL
+Oct 2011,Diesel oil: total (ML),1970.0,DL
+Nov 2011,Diesel oil: total (ML),2088.8,DL
+Dec 2011,Diesel oil: total (ML),1933.2,DL
+Jan 2012,Diesel oil: total (ML),1783.5,DL
+Feb 2012,Diesel oil: total (ML),1895.9,DL
+Mar 2012,Diesel oil: total (ML),1976.6,DL
+Apr 2012,Diesel oil: total (ML),1901.7,DL
+May 2012,Diesel oil: total (ML),2171.1,DL
+Jun 2012,Diesel oil: total (ML),1950.3,DL
+Jul 2012,Diesel oil: total (ML),2010.6,DL
+Aug 2012,Diesel oil: total (ML),2152.8,DL
+Sep 2012,Diesel oil: total (ML),2014.0,DL
+Oct 2012,Diesel oil: total (ML),2209.9,DL
+Nov 2012,Diesel oil: total (ML),2241.6,DL
+Dec 2012,Diesel oil: total (ML),2013.2,DL
+Jan 2013,Diesel oil: total (ML),1969.9,DL
+Feb 2013,Diesel oil: total (ML),1941.3,DL
+Mar 2013,Diesel oil: total (ML),2048.5,DL
+Apr 2013,Diesel oil: total (ML),2134.5,DL
+May 2013,Diesel oil: total (ML),2242.6,DL
+Jun 2013,Diesel oil: total (ML),2027.5,DL
+Jul 2013,Diesel oil: total (ML),2214.6,DL
+Aug 2013,Diesel oil: total (ML),2229.3,DL
+Sep 2013,Diesel oil: total (ML),2133.9,DL
+Oct 2013,Diesel oil: total (ML),2303.9,DL
+Nov 2013,Diesel oil: total (ML),2282.3,DL
+Dec 2013,Diesel oil: total (ML),2137.3,DL
+Jan 2014,Diesel oil: total (ML),2082.2,DL
+Feb 2014,Diesel oil: total (ML),2037.3,DL
+Mar 2014,Diesel oil: total (ML),2194.3,DL
+Apr 2014,Diesel oil: total (ML),2154.4,DL
+May 2014,Diesel oil: total (ML),2344.8,DL
+Jun 2014,Diesel oil: total (ML),2153.7,DL
+Jul 2014,Diesel oil: total (ML),2223.4,DL
+Aug 2014,Diesel oil: total (ML),2155.9,DL
+Sep 2014,Diesel oil: total (ML),2155.0,DL
+Oct 2014,Diesel oil: total (ML),2316.2,DL
+Nov 2014,Diesel oil: total (ML),2242.2,DL
+Dec 2014,Diesel oil: total (ML),2131.5,DL
+Jan 2015,Diesel oil: total (ML),2026.9,DL
+Feb 2015,Diesel oil: total (ML),2079.0,DL
+Mar 2015,Diesel oil: total (ML),2212.8,DL
+Apr 2015,Diesel oil: total (ML),2148.9,DL
+May 2015,Diesel oil: total (ML),2263.3,DL
+Jun 2015,Diesel oil: total (ML),2182.2,DL
+Jul 2015,Diesel oil: total (ML),2240.4,DL
+Aug 2015,Diesel oil: total (ML),2168.8,DL
+Sep 2015,Diesel oil: total (ML),2182.5,DL
+Oct 2015,Diesel oil: total (ML),2295.1,DL
+Nov 2015,Diesel oil: total (ML),2251.4,DL
+Dec 2015,Diesel oil: total (ML),2205.7,DL
+Jan 2016,Diesel oil: total (ML),2015.2,DL
+Feb 2016,Diesel oil: total (ML),2109.8,DL
+Mar 2016,Diesel oil: total (ML),2209.8,DL
+Apr 2016,Diesel oil: total (ML),2202.1,DL
+May 2016,Diesel oil: total (ML),2226.9,DL
+Jun 2016,Diesel oil: total (ML),2104.2,DL
+Jul 2016,Diesel oil: total (ML),2043.4,DL
+Aug 2016,Diesel oil: total (ML),2099.9,DL
+Sep 2016,Diesel oil: total (ML),2112.2,DL
+Oct 2016,Diesel oil: total (ML),2191.8,DL
+Nov 2016,Diesel oil: total (ML),2341.8,DL
+Dec 2016,Diesel oil: total (ML),2262.1,DL
+Jan 2017,Diesel oil: total (ML),2183.9,DL
+Feb 2017,Diesel oil: total (ML),2190.0,DL
+Mar 2017,Diesel oil: total (ML),2447.4,DL
+Apr 2017,Diesel oil: total (ML),2253.8,DL
+May 2017,Diesel oil: total (ML),2589.7,DL
+Jun 2017,Diesel oil: total (ML),2470.8,DL
+Jul 2017,Diesel oil: total (ML),2319.9,DL
+Aug 2017,Diesel oil: total (ML),2400.0,DL
+Sep 2017,Diesel oil: total (ML),2291.8,DL
+Oct 2017,Diesel oil: total (ML),2305.3,DL
+Nov 2017,Diesel oil: total (ML),2550.7,DL
+Dec 2017,Diesel oil: total (ML),2321.0,DL
+Jan 2018,Diesel oil: total (ML),2254.8,DL
+Feb 2018,Diesel oil: total (ML),2267.9,DL
+Mar 2018,Diesel oil: total (ML),2490.7,DL
+Apr 2018,Diesel oil: total (ML),2391.9,DL
+May 2018,Diesel oil: total (ML),2668.5,DL
+Jun 2018,Diesel oil: total (ML),2514.4,DL
+Jul 2018,Diesel oil: total (ML),2466.6,DL
+Aug 2018,Diesel oil: total (ML),2562.6,DL
+Sep 2018,Diesel oil: total (ML),2351.6,DL
+Oct 2018,Diesel oil: total (ML),2539.0,DL
+Nov 2018,Diesel oil: total (ML),2579.7,DL
+Dec 2018,Diesel oil: total (ML),2328.8,DL
+Jan 2019,Diesel oil: total (ML),2316.5,DL
+Feb 2019,Diesel oil: total (ML),2241.6,DL
+Mar 2019,Diesel oil: total (ML),2434.8,DL
+Apr 2019,Diesel oil: total (ML),2394.4,DL
+May 2019,Diesel oil: total (ML),2621.4,DL
+Jun 2019,Diesel oil: total (ML),2418.1,DL
+Jul 2019,Diesel oil: total (ML),2481.2,DL
+Aug 2019,Diesel oil: total (ML),2512.2,DL
+Sep 2019,Diesel oil: total (ML),2474.9,DL
+Oct 2019,Diesel oil: total (ML),2595.2,DL
+Nov 2019,Diesel oil: total (ML),2607.0,DL
+Dec 2019,Diesel oil: total (ML),2480.8,DL
+Jan 2020,Diesel oil: total (ML),2358.5,DL
+Feb 2020,Diesel oil: total (ML),2349.7,DL
+Mar 2020,Diesel oil: total (ML),2644.9,DL
+Apr 2020,Diesel oil: total (ML),2160.5,DL
+May 2020,Diesel oil: total (ML),2450.5,DL
+Jun 2020,Diesel oil: total (ML),2438.8,DL
+Jul 2020,Diesel oil: total (ML),2413.9,DL
+Aug 2020,Diesel oil: total (ML),2363.7,DL
+Sep 2020,Diesel oil: total (ML),2459.4,DL
+Oct 2020,Diesel oil: total (ML),2587.8,DL
+Nov 2020,Diesel oil: total (ML),2673.9,DL
+Dec 2020,Diesel oil: total (ML),2449.4,DL
+Jan 2021,Diesel oil: total (ML),2294.9,DL
+Feb 2021,Diesel oil: total (ML),2350.5,DL
+Mar 2021,Diesel oil: total (ML),2628.0,DL
+Apr 2021,Diesel oil: total (ML),2597.4,DL
+May 2021,Diesel oil: total (ML),2746.9,DL
+Jun 2021,Diesel oil: total (ML),2620.0,DL
+Jul 2021,Diesel oil: total (ML),2548.3,DL
+Aug 2021,Diesel oil: total (ML),2565.7,DL
+Sep 2021,Diesel oil: total (ML),2527.9,DL
+Oct 2021,Diesel oil: total (ML),2706.6,DL
+Nov 2021,Diesel oil: total (ML),2673.4,DL
+Dec 2021,Diesel oil: total (ML),2687.1,DL
+Jan 2022,Diesel oil: total (ML),2392.8,DL
+Feb 2022,Diesel oil: total (ML),2463.8,DL
+Mar 2022,Diesel oil: total (ML),2719.7,DL
+Apr 2022,Diesel oil: total (ML),2420.1,DL
+May 2022,Diesel oil: total (ML),2668.1,DL
+Jun 2022,Diesel oil: total (ML),2700.5,DL
+Jul 2022,Diesel oil: total (ML),2571.5,DL
+Aug 2022,Diesel oil: total (ML),2719.3,DL
+Sep 2022,Diesel oil: total (ML),2648.8,DL
+Oct 2022,Diesel oil: total (ML),2542.1,DL
+Nov 2022,Diesel oil: total (ML),2797.3,DL
+Dec 2022,Diesel oil: total (ML),2782.7,DL
+Jan 2023,Diesel oil: total (ML),2486.0,DL
+Feb 2023,Diesel oil: total (ML),2517.2,DL
+Mar 2023,Diesel oil: total (ML),2837.6,DL
+Apr 2023,Diesel oil: total (ML),2606.9,DL
+May 2023,Diesel oil: total (ML),2897.4,DL
+Jun 2023,Diesel oil: total (ML),2703.0,DL
+Jul 2023,Diesel oil: total (ML),2657.3,DL
+Aug 2023,Diesel oil: total (ML),2792.7,DL
+Sep 2023,Diesel oil: total (ML),2669.6,DL
+Oct 2023,Diesel oil: total (ML),2889.3,DL
+Nov 2023,Diesel oil: total (ML),2887.5,DL
+Dec 2023,Diesel oil: total (ML),2629.5,DL
+Jan 2024,Diesel oil: total (ML),2595.5,DL
+Feb 2024,Diesel oil: total (ML),2670.1,DL
+Mar 2024,Diesel oil: total (ML),2764.8,DL
+Apr 2024,Diesel oil: total (ML),2740.1,DL
+May 2024,Diesel oil: total (ML),3005.3,DL
+Jun 2024,Diesel oil: total (ML),2657.0,DL
+Jul 2024,Diesel oil: total (ML),2795.7,DL
+Aug 2024,Diesel oil: total (ML),2784.0,DL
+Sep 2024,Diesel oil: total (ML),2766.3,DL
+Oct 2024,Diesel oil: total (ML),2994.6,DL
+Nov 2024,Diesel oil: total (ML),2921.1,DL
+Dec 2024,Diesel oil: total (ML),2723.9,DL
+Jan 2025,Diesel oil: total (ML),2564.8,DL
+Feb 2025,Diesel oil: total (ML),2525.0,DL
+Jul 2010,Diesel oil: premium diesel (ML),,PDL
+Aug 2010,Diesel oil: premium diesel (ML),,PDL
+Sep 2010,Diesel oil: premium diesel (ML),,PDL
+Oct 2010,Diesel oil: premium diesel (ML),,PDL
+Nov 2010,Diesel oil: premium diesel (ML),,PDL
+Dec 2010,Diesel oil: premium diesel (ML),,PDL
+Jan 2011,Diesel oil: premium diesel (ML),,PDL
+Feb 2011,Diesel oil: premium diesel (ML),,PDL
+Mar 2011,Diesel oil: premium diesel (ML),,PDL
+Apr 2011,Diesel oil: premium diesel (ML),,PDL
+May 2011,Diesel oil: premium diesel (ML),,PDL
+Jun 2011,Diesel oil: premium diesel (ML),,PDL
+Jul 2011,Diesel oil: premium diesel (ML),,PDL
+Aug 2011,Diesel oil: premium diesel (ML),,PDL
+Sep 2011,Diesel oil: premium diesel (ML),,PDL
+Oct 2011,Diesel oil: premium diesel (ML),,PDL
+Nov 2011,Diesel oil: premium diesel (ML),,PDL
+Dec 2011,Diesel oil: premium diesel (ML),,PDL
+Jan 2012,Diesel oil: premium diesel (ML),,PDL
+Feb 2012,Diesel oil: premium diesel (ML),,PDL
+Mar 2012,Diesel oil: premium diesel (ML),,PDL
+Apr 2012,Diesel oil: premium diesel (ML),,PDL
+May 2012,Diesel oil: premium diesel (ML),,PDL
+Jun 2012,Diesel oil: premium diesel (ML),,PDL
+Jul 2012,Diesel oil: premium diesel (ML),,PDL
+Aug 2012,Diesel oil: premium diesel (ML),,PDL
+Sep 2012,Diesel oil: premium diesel (ML),,PDL
+Oct 2012,Diesel oil: premium diesel (ML),,PDL
+Nov 2012,Diesel oil: premium diesel (ML),,PDL
+Dec 2012,Diesel oil: premium diesel (ML),,PDL
+Jan 2013,Diesel oil: premium diesel (ML),,PDL
+Feb 2013,Diesel oil: premium diesel (ML),,PDL
+Mar 2013,Diesel oil: premium diesel (ML),,PDL
+Apr 2013,Diesel oil: premium diesel (ML),,PDL
+May 2013,Diesel oil: premium diesel (ML),,PDL
+Jun 2013,Diesel oil: premium diesel (ML),,PDL
+Jul 2013,Diesel oil: premium diesel (ML),,PDL
+Aug 2013,Diesel oil: premium diesel (ML),,PDL
+Sep 2013,Diesel oil: premium diesel (ML),,PDL
+Oct 2013,Diesel oil: premium diesel (ML),,PDL
+Nov 2013,Diesel oil: premium diesel (ML),,PDL
+Dec 2013,Diesel oil: premium diesel (ML),,PDL
+Jan 2014,Diesel oil: premium diesel (ML),,PDL
+Feb 2014,Diesel oil: premium diesel (ML),,PDL
+Mar 2014,Diesel oil: premium diesel (ML),,PDL
+Apr 2014,Diesel oil: premium diesel (ML),,PDL
+May 2014,Diesel oil: premium diesel (ML),,PDL
+Jun 2014,Diesel oil: premium diesel (ML),,PDL
+Jul 2014,Diesel oil: premium diesel (ML),,PDL
+Aug 2014,Diesel oil: premium diesel (ML),,PDL
+Sep 2014,Diesel oil: premium diesel (ML),,PDL
+Oct 2014,Diesel oil: premium diesel (ML),,PDL
+Nov 2014,Diesel oil: premium diesel (ML),,PDL
+Dec 2014,Diesel oil: premium diesel (ML),,PDL
+Jan 2015,Diesel oil: premium diesel (ML),,PDL
+Feb 2015,Diesel oil: premium diesel (ML),,PDL
+Mar 2015,Diesel oil: premium diesel (ML),,PDL
+Apr 2015,Diesel oil: premium diesel (ML),,PDL
+May 2015,Diesel oil: premium diesel (ML),,PDL
+Jun 2015,Diesel oil: premium diesel (ML),,PDL
+Jul 2015,Diesel oil: premium diesel (ML),,PDL
+Aug 2015,Diesel oil: premium diesel (ML),,PDL
+Sep 2015,Diesel oil: premium diesel (ML),,PDL
+Oct 2015,Diesel oil: premium diesel (ML),,PDL
+Nov 2015,Diesel oil: premium diesel (ML),,PDL
+Dec 2015,Diesel oil: premium diesel (ML),,PDL
+Jan 2016,Diesel oil: premium diesel (ML),,PDL
+Feb 2016,Diesel oil: premium diesel (ML),,PDL
+Mar 2016,Diesel oil: premium diesel (ML),,PDL
+Apr 2016,Diesel oil: premium diesel (ML),,PDL
+May 2016,Diesel oil: premium diesel (ML),,PDL
+Jun 2016,Diesel oil: premium diesel (ML),,PDL
+Jul 2016,Diesel oil: premium diesel (ML),,PDL
+Aug 2016,Diesel oil: premium diesel (ML),,PDL
+Sep 2016,Diesel oil: premium diesel (ML),,PDL
+Oct 2016,Diesel oil: premium diesel (ML),,PDL
+Nov 2016,Diesel oil: premium diesel (ML),,PDL
+Dec 2016,Diesel oil: premium diesel (ML),,PDL
+Jan 2017,Diesel oil: premium diesel (ML),,PDL
+Feb 2017,Diesel oil: premium diesel (ML),,PDL
+Mar 2017,Diesel oil: premium diesel (ML),,PDL
+Apr 2017,Diesel oil: premium diesel (ML),,PDL
+May 2017,Diesel oil: premium diesel (ML),,PDL
+Jun 2017,Diesel oil: premium diesel (ML),,PDL
+Jul 2017,Diesel oil: premium diesel (ML),,PDL
+Aug 2017,Diesel oil: premium diesel (ML),,PDL
+Sep 2017,Diesel oil: premium diesel (ML),,PDL
+Oct 2017,Diesel oil: premium diesel (ML),,PDL
+Nov 2017,Diesel oil: premium diesel (ML),,PDL
+Dec 2017,Diesel oil: premium diesel (ML),,PDL
+Jan 2018,Diesel oil: premium diesel (ML),,PDL
+Feb 2018,Diesel oil: premium diesel (ML),,PDL
+Mar 2018,Diesel oil: premium diesel (ML),,PDL
+Apr 2018,Diesel oil: premium diesel (ML),,PDL
+May 2018,Diesel oil: premium diesel (ML),,PDL
+Jun 2018,Diesel oil: premium diesel (ML),,PDL
+Jul 2018,Diesel oil: premium diesel (ML),,PDL
+Aug 2018,Diesel oil: premium diesel (ML),,PDL
+Sep 2018,Diesel oil: premium diesel (ML),,PDL
+Oct 2018,Diesel oil: premium diesel (ML),,PDL
+Nov 2018,Diesel oil: premium diesel (ML),,PDL
+Dec 2018,Diesel oil: premium diesel (ML),,PDL
+Jan 2019,Diesel oil: premium diesel (ML),,PDL
+Feb 2019,Diesel oil: premium diesel (ML),,PDL
+Mar 2019,Diesel oil: premium diesel (ML),,PDL
+Apr 2019,Diesel oil: premium diesel (ML),,PDL
+May 2019,Diesel oil: premium diesel (ML),,PDL
+Jun 2019,Diesel oil: premium diesel (ML),,PDL
+Jul 2019,Diesel oil: premium diesel (ML),,PDL
+Aug 2019,Diesel oil: premium diesel (ML),,PDL
+Sep 2019,Diesel oil: premium diesel (ML),,PDL
+Oct 2019,Diesel oil: premium diesel (ML),,PDL
+Nov 2019,Diesel oil: premium diesel (ML),,PDL
+Dec 2019,Diesel oil: premium diesel (ML),,PDL
+Jan 2020,Diesel oil: premium diesel (ML),,PDL
+Feb 2020,Diesel oil: premium diesel (ML),,PDL
+Mar 2020,Diesel oil: premium diesel (ML),,PDL
+Apr 2020,Diesel oil: premium diesel (ML),,PDL
+May 2020,Diesel oil: premium diesel (ML),,PDL
+Jun 2020,Diesel oil: premium diesel (ML),,PDL
+Jul 2020,Diesel oil: premium diesel (ML),,PDL
+Aug 2020,Diesel oil: premium diesel (ML),,PDL
+Sep 2020,Diesel oil: premium diesel (ML),,PDL
+Oct 2020,Diesel oil: premium diesel (ML),,PDL
+Nov 2020,Diesel oil: premium diesel (ML),,PDL
+Dec 2020,Diesel oil: premium diesel (ML),,PDL
+Jan 2021,Diesel oil: premium diesel (ML),,PDL
+Feb 2021,Diesel oil: premium diesel (ML),,PDL
+Mar 2021,Diesel oil: premium diesel (ML),,PDL
+Apr 2021,Diesel oil: premium diesel (ML),,PDL
+May 2021,Diesel oil: premium diesel (ML),,PDL
+Jun 2021,Diesel oil: premium diesel (ML),,PDL
+Jul 2021,Diesel oil: premium diesel (ML),,PDL
+Aug 2021,Diesel oil: premium diesel (ML),,PDL
+Sep 2021,Diesel oil: premium diesel (ML),,PDL
+Oct 2021,Diesel oil: premium diesel (ML),,PDL
+Nov 2021,Diesel oil: premium diesel (ML),,PDL
+Dec 2021,Diesel oil: premium diesel (ML),,PDL
+Jan 2022,Diesel oil: premium diesel (ML),,PDL
+Feb 2022,Diesel oil: premium diesel (ML),,PDL
+Mar 2022,Diesel oil: premium diesel (ML),,PDL
+Apr 2022,Diesel oil: premium diesel (ML),,PDL
+May 2022,Diesel oil: premium diesel (ML),,PDL
+Jun 2022,Diesel oil: premium diesel (ML),,PDL
+Jul 2022,Diesel oil: premium diesel (ML),,PDL
+Aug 2022,Diesel oil: premium diesel (ML),,PDL
+Sep 2022,Diesel oil: premium diesel (ML),,PDL
+Oct 2022,Diesel oil: premium diesel (ML),,PDL
+Nov 2022,Diesel oil: premium diesel (ML),,PDL
+Dec 2022,Diesel oil: premium diesel (ML),,PDL
+Jan 2023,Diesel oil: premium diesel (ML),,PDL
+Feb 2023,Diesel oil: premium diesel (ML),,PDL
+Mar 2023,Diesel oil: premium diesel (ML),,PDL
+Apr 2023,Diesel oil: premium diesel (ML),,PDL
+May 2023,Diesel oil: premium diesel (ML),,PDL
+Jun 2023,Diesel oil: premium diesel (ML),,PDL
+Jul 2023,Diesel oil: premium diesel (ML),,PDL
+Aug 2023,Diesel oil: premium diesel (ML),,PDL
+Sep 2023,Diesel oil: premium diesel (ML),,PDL
+Oct 2023,Diesel oil: premium diesel (ML),,PDL
+Nov 2023,Diesel oil: premium diesel (ML),,PDL
+Dec 2023,Diesel oil: premium diesel (ML),,PDL
+Jan 2024,Diesel oil: premium diesel (ML),,PDL
+Feb 2024,Diesel oil: premium diesel (ML),,PDL
+Mar 2024,Diesel oil: premium diesel (ML),,PDL
+Apr 2024,Diesel oil: premium diesel (ML),,PDL
+May 2024,Diesel oil: premium diesel (ML),,PDL
+Jun 2024,Diesel oil: premium diesel (ML),,PDL
+Jul 2024,Diesel oil: premium diesel (ML),,PDL
+Aug 2024,Diesel oil: premium diesel (ML),,PDL
+Sep 2024,Diesel oil: premium diesel (ML),,PDL
+Oct 2024,Diesel oil: premium diesel (ML),,PDL
+Nov 2024,Diesel oil: premium diesel (ML),,PDL
+Dec 2024,Diesel oil: premium diesel (ML),,PDL
+Jan 2025,Diesel oil: premium diesel (ML),,PDL
+Feb 2025,Diesel oil: premium diesel (ML),,PDL
+Jul 2010,LPG Automotive use (ML),193.3,LPG
+Aug 2010,LPG Automotive use (ML),196.0,LPG
+Sep 2010,LPG Automotive use (ML),180.5,LPG
+Oct 2010,LPG Automotive use (ML),169.8,LPG
+Nov 2010,LPG Automotive use (ML),168.7,LPG
+Dec 2010,LPG Automotive use (ML),173.7,LPG
+Jan 2011,LPG Automotive use (ML),143.9,LPG
+Feb 2011,LPG Automotive use (ML),155.7,LPG
+Mar 2011,LPG Automotive use (ML),158.2,LPG
+Apr 2011,LPG Automotive use (ML),160.7,LPG
+May 2011,LPG Automotive use (ML),163.0,LPG
+Jun 2011,LPG Automotive use (ML),153.8,LPG
+Jul 2011,LPG Automotive use (ML),161.9,LPG
+Aug 2011,LPG Automotive use (ML),168.8,LPG
+Sep 2011,LPG Automotive use (ML),155.9,LPG
+Oct 2011,LPG Automotive use (ML),151.5,LPG
+Nov 2011,LPG Automotive use (ML),157.8,LPG
+Dec 2011,LPG Automotive use (ML),153.5,LPG
+Jan 2012,LPG Automotive use (ML),144.4,LPG
+Feb 2012,LPG Automotive use (ML),157.3,LPG
+Mar 2012,LPG Automotive use (ML),152.1,LPG
+Apr 2012,LPG Automotive use (ML),142.2,LPG
+May 2012,LPG Automotive use (ML),155.7,LPG
+Jun 2012,LPG Automotive use (ML),141.5,LPG
+Jul 2012,LPG Automotive use (ML),132.2,LPG
+Aug 2012,LPG Automotive use (ML),139.3,LPG
+Sep 2012,LPG Automotive use (ML),124.1,LPG
+Oct 2012,LPG Automotive use (ML),130.7,LPG
+Nov 2012,LPG Automotive use (ML),127.1,LPG
+Dec 2012,LPG Automotive use (ML),138.1,LPG
+Jan 2013,LPG Automotive use (ML),122.9,LPG
+Feb 2013,LPG Automotive use (ML),127.7,LPG
+Mar 2013,LPG Automotive use (ML),127.7,LPG
+Apr 2013,LPG Automotive use (ML),130.4,LPG
+May 2013,LPG Automotive use (ML),140.1,LPG
+Jun 2013,LPG Automotive use (ML),134.7,LPG
+Jul 2013,LPG Automotive use (ML),157.1,LPG
+Aug 2013,LPG Automotive use (ML),156.1,LPG
+Sep 2013,LPG Automotive use (ML),136.9,LPG
+Oct 2013,LPG Automotive use (ML),147.7,LPG
+Nov 2013,LPG Automotive use (ML),147.2,LPG
+Dec 2013,LPG Automotive use (ML),156.6,LPG
+Jan 2014,LPG Automotive use (ML),148.7,LPG
+Feb 2014,LPG Automotive use (ML),160.3,LPG
+Mar 2014,LPG Automotive use (ML),154.6,LPG
+Apr 2014,LPG Automotive use (ML),147.2,LPG
+May 2014,LPG Automotive use (ML),163.2,LPG
+Jun 2014,LPG Automotive use (ML),147.7,LPG
+Jul 2014,LPG Automotive use (ML),128.4,LPG
+Aug 2014,LPG Automotive use (ML),132.3,LPG
+Sep 2014,LPG Automotive use (ML),130.0,LPG
+Oct 2014,LPG Automotive use (ML),125.7,LPG
+Nov 2014,LPG Automotive use (ML),119.7,LPG
+Dec 2014,LPG Automotive use (ML),131.6,LPG
+Jan 2015,LPG Automotive use (ML),114.8,LPG
+Feb 2015,LPG Automotive use (ML),115.9,LPG
+Mar 2015,LPG Automotive use (ML),120.3,LPG
+Apr 2015,LPG Automotive use (ML),118.6,LPG
+May 2015,LPG Automotive use (ML),116.2,LPG
+Jun 2015,LPG Automotive use (ML),115.8,LPG
+Jul 2015,LPG Automotive use (ML),115.0,LPG
+Aug 2015,LPG Automotive use (ML),120.2,LPG
+Sep 2015,LPG Automotive use (ML),107.4,LPG
+Oct 2015,LPG Automotive use (ML),93.8,LPG
+Nov 2015,LPG Automotive use (ML),96.0,LPG
+Dec 2015,LPG Automotive use (ML),104.0,LPG
+Jan 2016,LPG Automotive use (ML),109.5,LPG
+Feb 2016,LPG Automotive use (ML),127.5,LPG
+Mar 2016,LPG Automotive use (ML),120.5,LPG
+Apr 2016,LPG Automotive use (ML),111.4,LPG
+May 2016,LPG Automotive use (ML),113.3,LPG
+Jun 2016,LPG Automotive use (ML),110.8,LPG
+Jul 2016,LPG Automotive use (ML),114.9,LPG
+Aug 2016,LPG Automotive use (ML),97.4,LPG
+Sep 2016,LPG Automotive use (ML),88.4,LPG
+Oct 2016,LPG Automotive use (ML),89.8,LPG
+Nov 2016,LPG Automotive use (ML),82.5,LPG
+Dec 2016,LPG Automotive use (ML),85.7,LPG
+Jan 2017,LPG Automotive use (ML),71.5,LPG
+Feb 2017,LPG Automotive use (ML),75.5,LPG
+Mar 2017,LPG Automotive use (ML),78.0,LPG
+Apr 2017,LPG Automotive use (ML),72.6,LPG
+May 2017,LPG Automotive use (ML),76.5,LPG
+Jun 2017,LPG Automotive use (ML),73.5,LPG
+Jul 2017,LPG Automotive use (ML),75.0,LPG
+Aug 2017,LPG Automotive use (ML),74.1,LPG
+Sep 2017,LPG Automotive use (ML),64.8,LPG
+Oct 2017,LPG Automotive use (ML),70.4,LPG
+Nov 2017,LPG Automotive use (ML),70.3,LPG
+Dec 2017,LPG Automotive use (ML),69.4,LPG
+Jan 2018,LPG Automotive use (ML),74.0,LPG
+Feb 2018,LPG Automotive use (ML),51.6,LPG
+Mar 2018,LPG Automotive use (ML),57.4,LPG
+Apr 2018,LPG Automotive use (ML),55.7,LPG
+May 2018,LPG Automotive use (ML),62.2,LPG
+Jun 2018,LPG Automotive use (ML),52.2,LPG
+Jul 2018,LPG Automotive use (ML),54.4,LPG
+Aug 2018,LPG Automotive use (ML),51.5,LPG
+Sep 2018,LPG Automotive use (ML),50.0,LPG
+Oct 2018,LPG Automotive use (ML),55.0,LPG
+Nov 2018,LPG Automotive use (ML),49.3,LPG
+Dec 2018,LPG Automotive use (ML),43.6,LPG
+Jan 2019,LPG Automotive use (ML),60.8,LPG
+Feb 2019,LPG Automotive use (ML),45.2,LPG
+Mar 2019,LPG Automotive use (ML),47.1,LPG
+Apr 2019,LPG Automotive use (ML),45.0,LPG
+May 2019,LPG Automotive use (ML),48.0,LPG
+Jun 2019,LPG Automotive use (ML),41.5,LPG
+Jul 2019,LPG Automotive use (ML),49.4,LPG
+Aug 2019,LPG Automotive use (ML),46.3,LPG
+Sep 2019,LPG Automotive use (ML),44.0,LPG
+Oct 2019,LPG Automotive use (ML),51.3,LPG
+Nov 2019,LPG Automotive use (ML),49.8,LPG
+Dec 2019,LPG Automotive use (ML),42.4,LPG
+Jan 2020,LPG Automotive use (ML),44.9,LPG
+Feb 2020,LPG Automotive use (ML),45.8,LPG
+Mar 2020,LPG Automotive use (ML),52.9,LPG
+Apr 2020,LPG Automotive use (ML),27.2,LPG
+May 2020,LPG Automotive use (ML),27.4,LPG
+Jun 2020,LPG Automotive use (ML),32.5,LPG
+Jul 2020,LPG Automotive use (ML),32.4,LPG
+Aug 2020,LPG Automotive use (ML),27.7,LPG
+Sep 2020,LPG Automotive use (ML),27.6,LPG
+Oct 2020,LPG Automotive use (ML),31.4,LPG
+Nov 2020,LPG Automotive use (ML),33.6,LPG
+Dec 2020,LPG Automotive use (ML),35.9,LPG
+Jan 2021,LPG Automotive use (ML),26.8,LPG
+Feb 2021,LPG Automotive use (ML),26.5,LPG
+Mar 2021,LPG Automotive use (ML),28.8,LPG
+Apr 2021,LPG Automotive use (ML),27.1,LPG
+May 2021,LPG Automotive use (ML),29.2,LPG
+Jun 2021,LPG Automotive use (ML),26.5,LPG
+Jul 2021,LPG Automotive use (ML),27.6,LPG
+Aug 2021,LPG Automotive use (ML),24.3,LPG
+Sep 2021,LPG Automotive use (ML),23.0,LPG
+Oct 2021,LPG Automotive use (ML),17.3,LPG
+Nov 2021,LPG Automotive use (ML),25.9,LPG
+Dec 2021,LPG Automotive use (ML),23.9,LPG
+Jan 2022,LPG Automotive use (ML),20.1,LPG
+Feb 2022,LPG Automotive use (ML),20.3,LPG
+Mar 2022,LPG Automotive use (ML),26.6,LPG
+Apr 2022,LPG Automotive use (ML),23.6,LPG
+May 2022,LPG Automotive use (ML),25.4,LPG
+Jun 2022,LPG Automotive use (ML),23.7,LPG
+Jul 2022,LPG Automotive use (ML),24.2,LPG
+Aug 2022,LPG Automotive use (ML),24.1,LPG
+Sep 2022,LPG Automotive use (ML),19.5,LPG
+Oct 2022,LPG Automotive use (ML),22.6,LPG
+Nov 2022,LPG Automotive use (ML),21.5,LPG
+Dec 2022,LPG Automotive use (ML),21.7,LPG
+Jan 2023,LPG Automotive use (ML),22.6,LPG
+Feb 2023,LPG Automotive use (ML),19.3,LPG
+Mar 2023,LPG Automotive use (ML),23.4,LPG
+Apr 2023,LPG Automotive use (ML),22.6,LPG
+May 2023,LPG Automotive use (ML),21.2,LPG
+Jun 2023,LPG Automotive use (ML),18.5,LPG
+Jul 2023,LPG Automotive use (ML),23.1,LPG
+Aug 2023,LPG Automotive use (ML),21.1,LPG
+Sep 2023,LPG Automotive use (ML),19.5,LPG
+Oct 2023,LPG Automotive use (ML),21.2,LPG
+Nov 2023,LPG Automotive use (ML),20.1,LPG
+Dec 2023,LPG Automotive use (ML),20.9,LPG
+Jan 2024,LPG Automotive use (ML),18.5,LPG
+Feb 2024,LPG Automotive use (ML),20.2,LPG
+Mar 2024,LPG Automotive use (ML),20.0,LPG
+Apr 2024,LPG Automotive use (ML),19.2,LPG
+May 2024,LPG Automotive use (ML),19.6,LPG
+Jun 2024,LPG Automotive use (ML),18.4,LPG
+Jul 2024,LPG Automotive use (ML),20.0,LPG
+Aug 2024,LPG Automotive use (ML),17.2,LPG
+Sep 2024,LPG Automotive use (ML),20.6,LPG
+Oct 2024,LPG Automotive use (ML),22.2,LPG
+Nov 2024,LPG Automotive use (ML),20.5,LPG
+Dec 2024,LPG Automotive use (ML),23.2,LPG
+Jan 2025,LPG Automotive use (ML),20.4,LPG
+Feb 2025,LPG Automotive use (ML),19.1,LPG

@@ -1,0 +1,101 @@
+,ServiceStationName,Address,Suburb,Postcode,Brand,FuelCode,PriceUpdatedDate,Price
+0,Costco Canberra Airport (Members Only),"39-41 Mustang Avenue, Canberra Airport ACT 2609",Canberra Airport,2609,Costco,U91,2024-01-01,168.7
+1,Costco Canberra Airport (Members Only),"39-41 Mustang Avenue, Canberra Airport ACT 2609",Canberra Airport,2609,Costco,P98,2024-01-01,189.7
+2,Costco Canberra Airport (Members Only),"39-41 Mustang Avenue, Canberra Airport ACT 2609",Canberra Airport,2609,Costco,PDL,2024-01-01,177.7
+3,Costco Casula (Members only),"20 Parkersfarm Place, Casula NSW 2170",Casula,2170,Costco,E10,2024-01-01,164.7
+4,Costco Casula (Members only),"20 Parkersfarm Place, Casula NSW 2170",Casula,2170,Costco,P98,2024-01-01,188.7
+5,Costco Casula (Members only),"20 Parkersfarm Place, Casula NSW 2170",Casula,2170,Costco,PDL,2024-01-01,176.7
+6,Costco Lake Macquarie (Members only),"1 CRESSY RD, BOOLAROO NSW 2284",BOOLAROO,2284,Costco,E10,2024-01-01,166.7
+7,Costco Lake Macquarie (Members only),"1 CRESSY RD, BOOLAROO NSW 2284",BOOLAROO,2284,Costco,P98,2024-01-01,188.7
+8,Costco Lake Macquarie (Members only),"1 CRESSY RD, BOOLAROO NSW 2284",BOOLAROO,2284,Costco,PDL,2024-01-01,178.7
+9,Costco Marsden Park (Members only),"10 Langford Drive, MARSDEN PARK NSW 2765",MARSDEN PARK,2765,Costco,E10,2024-01-01,168.7
+10,Costco Marsden Park (Members only),"10 Langford Drive, MARSDEN PARK NSW 2765",MARSDEN PARK,2765,Costco,P98,2024-01-01,189.7
+11,Costco Marsden Park (Members only),"10 Langford Drive, MARSDEN PARK NSW 2765",MARSDEN PARK,2765,Costco,PDL,2024-01-01,180.7
+12,BP Rockdale,"444 West Botany Street, ROCKDALE NSW 2216",ROCKDALE,2216,BP,E10,2024-01-01,184.9
+13,BP Rockdale,"444 West Botany Street, ROCKDALE NSW 2216",ROCKDALE,2216,BP,U91,2024-01-01,187.9
+14,BP Rockdale,"444 West Botany Street, ROCKDALE NSW 2216",ROCKDALE,2216,BP,P95,2024-01-01,203.9
+15,BP Rockdale,"444 West Botany Street, ROCKDALE NSW 2216",ROCKDALE,2216,BP,P98,2024-01-01,209.9
+16,Enhance Waratah,"51 LAMBTON RD, WARATAH NSW 2298",WARATAH,2298,Enhance,DL,2024-01-01,187.9
+17,Enhance Lugarno,"1046 FOREST RD, LUGARNO NSW 2210",LUGARNO,2210,Enhance,E10,2024-01-01,186.9
+18,Enhance Lugarno,"1046 FOREST RD, LUGARNO NSW 2210",LUGARNO,2210,Enhance,U91,2024-01-01,188.9
+19,Enhance Lugarno,"1046 FOREST RD, LUGARNO NSW 2210",LUGARNO,2210,Enhance,P98,2024-01-01,208.9
+20,Metro Peakhurst,"114 Boundary Road, PEAKHURST NSW 2210",PEAKHURST,2210,Metro Fuel,E10,2024-01-01,185.9
+21,Metro Peakhurst,"114 Boundary Road, PEAKHURST NSW 2210",PEAKHURST,2210,Metro Fuel,PDL,2024-01-01,185.7
+22,Coles Express Woolloomooloo,"61-63 Cowper Wharf Rd (Cnr Dowling St), Woolloomooloo NSW 2011",Woolloomooloo,2011,Coles Express,E10,2024-01-01,187.9
+23,Coles Express Woolloomooloo,"61-63 Cowper Wharf Rd (Cnr Dowling St), Woolloomooloo NSW 2011",Woolloomooloo,2011,Coles Express,P95,2024-01-01,204.9
+24,Coles Express Woolloomooloo,"61-63 Cowper Wharf Rd (Cnr Dowling St), Woolloomooloo NSW 2011",Woolloomooloo,2011,Coles Express,P98,2024-01-01,212.9
+25,Coles Express Woolloomooloo,"61-63 Cowper Wharf Rd (Cnr Dowling St), Woolloomooloo NSW 2011",Woolloomooloo,2011,Coles Express,DL,2024-01-01,205.9
+26,Liberty Doonside,"13-15 Doonside Rd, Doonside NSW 2767",Doonside,2767,Liberty,E10,2024-01-01,191.9
+27,Liberty Doonside,"13-15 Doonside Rd, Doonside NSW 2767",Doonside,2767,Liberty,U91,2024-01-01,193.9
+28,Liberty Doonside,"13-15 Doonside Rd, Doonside NSW 2767",Doonside,2767,Liberty,DL,2024-01-01,183.9
+29,Pearl Energy Wyong North,"6b 1-10 Amy Close, WYONG NSW 2259",WYONG,2259,Pearl Energy,E10,2024-01-01,177.5
+30,Pearl Energy Wyong North,"6b 1-10 Amy Close, WYONG NSW 2259",WYONG,2259,Pearl Energy,U91,2024-01-01,179.5
+31,Pearl Energy Wyong North,"6b 1-10 Amy Close, WYONG NSW 2259",WYONG,2259,Pearl Energy,P98,2024-01-01,199.5
+32,Metro Tuggerah,"150 Pacific Hwy, TUGGERAH NSW 2259",TUGGERAH,2259,Metro Fuel,E10,2024-01-01,177.5
+33,Metro Tuggerah,"150 Pacific Hwy, TUGGERAH NSW 2259",TUGGERAH,2259,Metro Fuel,U91,2024-01-01,179.5
+34,Metro Tuggerah,"150 Pacific Hwy, TUGGERAH NSW 2259",TUGGERAH,2259,Metro Fuel,P98,2024-01-01,199.5
+35,Metro Petroleum Kurri Kurri Northcote,"47-49 NORTHCOTE ST, KURRI KURRI NSW 2327",KURRI KURRI,2327,Metro Fuel,E10,2024-01-01,185.7
+36,Metro Petroleum Kurri Kurri Northcote,"47-49 NORTHCOTE ST, KURRI KURRI NSW 2327",KURRI KURRI,2327,Metro Fuel,U91,2024-01-01,187.7
+37,Metro Petroleum Kurri Kurri Northcote,"47-49 NORTHCOTE ST, KURRI KURRI NSW 2327",KURRI KURRI,2327,Metro Fuel,PDL,2024-01-01,194.7
+38,Metro Belmore,"607 Canterbury Road, Belmore NSW 2192",Belmore,2192,Metro Fuel,E10,2024-01-01,187.7
+39,Metro Belmore,"607 Canterbury Road, Belmore NSW 2192",Belmore,2192,Metro Fuel,U91,2024-01-01,190.7
+40,Metro Belmore,"607 Canterbury Road, Belmore NSW 2192",Belmore,2192,Metro Fuel,P95,2024-01-01,200.7
+41,Metro Belmore,"607 Canterbury Road, Belmore NSW 2192",Belmore,2192,Metro Fuel,P98,2024-01-01,210.7
+42,Metro Belmore,"607 Canterbury Road, Belmore NSW 2192",Belmore,2192,Metro Fuel,PDL,2024-01-01,189.7
+43,Metro Petroleum Hunter Valley,"36 WINE COUNTRY DR, CESSNOCK NSW 2325",CESSNOCK,2325,Metro Fuel,E10,2024-01-01,164.5
+44,Metro Petroleum Hunter Valley,"36 WINE COUNTRY DR, CESSNOCK NSW 2325",CESSNOCK,2325,Metro Fuel,U91,2024-01-01,166.5
+45,Metro Petroleum Hunter Valley,"36 WINE COUNTRY DR, CESSNOCK NSW 2325",CESSNOCK,2325,Metro Fuel,P98,2024-01-01,186.5
+46,Metro Petroleum Hunter Valley,"36 WINE COUNTRY DR, CESSNOCK NSW 2325",CESSNOCK,2325,Metro Fuel,PDL,2024-01-01,179.9
+47,Shell Croydon,"418-424 LIVERPOOL RD, CROYDON NSW 2132",CROYDON,2132,Shell,E10,2024-01-01,172.9
+48,Shell Croydon,"418-424 LIVERPOOL RD, CROYDON NSW 2132",CROYDON,2132,Shell,U91,2024-01-01,174.9
+49,Ultra Edgeworth,"780 Main Rd, EDGEWORTH NSW 2285",EDGEWORTH,2285,Independent,E10,2024-01-01,189.9
+50,Ultra Edgeworth,"780 Main Rd, EDGEWORTH NSW 2285",EDGEWORTH,2285,Independent,U91,2024-01-01,194.9
+51,Ultra Edgeworth,"780 Main Rd, EDGEWORTH NSW 2285",EDGEWORTH,2285,Independent,P98,2024-01-01,209.9
+52,Ultra Edgeworth,"780 Main Rd, EDGEWORTH NSW 2285",EDGEWORTH,2285,Independent,PDL,2024-01-01,197.9
+53,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent,E10,2024-01-01,175.9
+54,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent,U91,2024-01-01,182.9
+55,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent,P98,2024-01-01,196.9
+56,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent,PDL,2024-01-01,185.9
+57,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent,E10,2024-01-01,175.9
+58,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent,U91,2024-01-01,182.9
+59,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent,P98,2024-01-01,196.9
+60,Ultra Boolaroo,"No 6 Main Road, Boolaroo NSW 2284",Boolaroo,2284,Independent,PDL,2024-01-01,185.9
+61,Metro Fuel Doonside,"198 Hill End Road, Doonside NSW 2767",Doonside,2767,Metro Fuel,E10,2024-01-01,177.9
+62,BP Crossroads,"615-617 Hume Hwy, CASULA NSW 2170",CASULA,2170,BP,E10,2024-01-01,190.9
+63,BP Crossroads,"615-617 Hume Hwy, CASULA NSW 2170",CASULA,2170,BP,U91,2024-01-01,193.9
+64,BP Crossroads,"615-617 Hume Hwy, CASULA NSW 2170",CASULA,2170,BP,P98,2024-01-01,216.9
+65,BP Kingsford,"368 Anzac Parade, Kingsford NSW 2032",Kingsford,2032,BP,E10,2024-01-01,191.9
+66,BP Kingsford,"368 Anzac Parade, Kingsford NSW 2032",Kingsford,2032,BP,U91,2024-01-01,194.9
+67,BP Kingsford,"368 Anzac Parade, Kingsford NSW 2032",Kingsford,2032,BP,P98,2024-01-01,217.9
+68,BP Smithfield NSW,"846 THE HORSLEY DRIVE, SMITHFIELD NSW 2164",SMITHFIELD,2164,BP,E10,2024-01-01,184.9
+69,BP Smithfield NSW,"846 THE HORSLEY DRIVE, SMITHFIELD NSW 2164",SMITHFIELD,2164,BP,U91,2024-01-01,186.9
+70,BP Smithfield NSW,"846 THE HORSLEY DRIVE, SMITHFIELD NSW 2164",SMITHFIELD,2164,BP,P98,2024-01-01,209.9
+71,Metro Petroleum Gosford,"57 CENTRAL COAST HWY, WEST GOSFORD NSW 2250",WEST GOSFORD,2250,Metro Fuel,E10,2024-01-01,182.9
+72,Metro Petroleum Gosford,"57 CENTRAL COAST HWY, WEST GOSFORD NSW 2250",WEST GOSFORD,2250,Metro Fuel,U91,2024-01-01,189.9
+73,Metro Petroleum Gosford,"57 CENTRAL COAST HWY, WEST GOSFORD NSW 2250",WEST GOSFORD,2250,Metro Fuel,P95,2024-01-01,197.9
+74,Metro Petroleum Gosford,"57 CENTRAL COAST HWY, WEST GOSFORD NSW 2250",WEST GOSFORD,2250,Metro Fuel,P98,2024-01-01,207.9
+75,Metro Petroleum Gosford,"57 CENTRAL COAST HWY, WEST GOSFORD NSW 2250",WEST GOSFORD,2250,Metro Fuel,PDL,2024-01-01,173.9
+76,Mobil Nowra,"215 Kinghorne St, NOWRA NSW 2541",NOWRA,2541,Mobil,E10,2024-01-01,165.0
+77,Mobil Nowra,"215 Kinghorne St, NOWRA NSW 2541",NOWRA,2541,Mobil,U91,2024-01-01,167.0
+78,Mobil Nowra,"215 Kinghorne St, NOWRA NSW 2541",NOWRA,2541,Mobil,PDL,2024-01-01,181.3
+79,Coles Express Waterloo,"867-869 South Dowling Street, Waterloo NSW 2017",Waterloo,2017,Coles Express,E10,2024-01-01,189.9
+80,Coles Express Waterloo,"867-869 South Dowling Street, Waterloo NSW 2017",Waterloo,2017,Coles Express,U91,2024-01-01,191.9
+81,Coles Express Waterloo,"867-869 South Dowling Street, Waterloo NSW 2017",Waterloo,2017,Coles Express,P95,2024-01-01,206.9
+82,Coles Express Waterloo,"867-869 South Dowling Street, Waterloo NSW 2017",Waterloo,2017,Coles Express,P98,2024-01-01,214.9
+83,Metro Petroleum Toongabbie,"59 THE CRESCENT, TOONGABBIE NSW 2146",TOONGABBIE,2146,Metro Fuel,E10,2024-01-01,190.8
+84,Metro Petroleum Toongabbie,"59 THE CRESCENT, TOONGABBIE NSW 2146",TOONGABBIE,2146,Metro Fuel,U91,2024-01-01,192.9
+85,Metro Petroleum Toongabbie,"59 THE CRESCENT, TOONGABBIE NSW 2146",TOONGABBIE,2146,Metro Fuel,P98,2024-01-01,212.9
+86,Metro Petroleum South Hurstville,"928-930 KING GEORGES RD, BLAKEHURST NSW 2221",BLAKEHURST,2221,Metro Fuel,E10,2024-01-01,184.7
+87,Metro Petroleum South Hurstville,"928-930 KING GEORGES RD, BLAKEHURST NSW 2221",BLAKEHURST,2221,Metro Fuel,U91,2024-01-01,186.7
+88,Metro Petroleum South Hurstville,"928-930 KING GEORGES RD, BLAKEHURST NSW 2221",BLAKEHURST,2221,Metro Fuel,PDL,2024-01-01,187.7
+89,7-Eleven Adamstown,"531 - 537 Glebe Road & Bryant Street, Adamstown NSW 2289",Adamstown,2289,7-Eleven,U91,2024-01-01,196.5
+90,7-Eleven Adamstown,"531 - 537 Glebe Road & Bryant Street, Adamstown NSW 2289",Adamstown,2289,7-Eleven,P95,2024-01-01,208.5
+91,7-Eleven Adamstown,"531 - 537 Glebe Road & Bryant Street, Adamstown NSW 2289",Adamstown,2289,7-Eleven,P98,2024-01-01,216.5
+92,7-Eleven Adamstown,"531 - 537 Glebe Road & Bryant Street, Adamstown NSW 2289",Adamstown,2289,7-Eleven,E10,2024-01-01,194.5
+93,EJ Stop N Save,"9 Davies Rd, Padstow NSW 2211",Padstow,2211,Independent,E10,2024-01-01,161.5
+94,EJ Stop N Save,"9 Davies Rd, Padstow NSW 2211",Padstow,2211,Independent,U91,2024-01-01,163.5
+95,Coles Express Hastings Point,"99 Tweed Coast Rd, Hastings Point NSW 2489",Hastings Point,2489,Coles Express,U91,2024-01-01,218.9
+96,Coles Express Hastings Point,"99 Tweed Coast Rd, Hastings Point NSW 2489",Hastings Point,2489,Coles Express,P95,2024-01-01,233.9
+97,Coles Express Hastings Point,"99 Tweed Coast Rd, Hastings Point NSW 2489",Hastings Point,2489,Coles Express,P98,2024-01-01,241.9
+98,Coles Express Hastings Point,"99 Tweed Coast Rd, Hastings Point NSW 2489",Hastings Point,2489,Coles Express,DL,2024-01-01,213.9
+99,TEMCO Petroleum,"190 WATERLOO RD, GREENACRE NSW 2190",GREENACRE,2190,Independent,U91,2024-01-01,165.5

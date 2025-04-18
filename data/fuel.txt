@@ -1,0 +1,99 @@
+Month,Product,SalesValue,FuelCode
+01-2024,Regular (<95 RON) (ML),742.9,U91
+02-2024,Regular (<95 RON) (ML),735.2,U91
+03-2024,Regular (<95 RON) (ML),781.7,U91
+04-2024,Regular (<95 RON) (ML),712.7,U91
+05-2024,Regular (<95 RON) (ML),779.7,U91
+06-2024,Regular (<95 RON) (ML),703.2,U91
+07-2024,Regular (<95 RON) (ML),745.8,U91
+08-2024,Regular (<95 RON) (ML),750.3,U91
+09-2024,Regular (<95 RON) (ML),720.0,U91
+10-2024,Regular (<95 RON) (ML),767.4,U91
+11-2024,Regular (<95 RON) (ML),749.7,U91
+12-2024,Regular (<95 RON) (ML),770.8,U91
+01-2025,Regular (<95 RON) (ML),714.7,U91
+02-2025,Regular (<95 RON) (ML),680.2,U91
+01-2024,Premium (95-97 RON) (ML),171.4,P95
+02-2024,Premium (95-97 RON) (ML),166.1,P95
+03-2024,Premium (95-97 RON) (ML),181.3,P95
+04-2024,Premium (95-97 RON) (ML),164.4,P95
+05-2024,Premium (95-97 RON) (ML),176.0,P95
+06-2024,Premium (95-97 RON) (ML),157.4,P95
+07-2024,Premium (95-97 RON) (ML),165.4,P95
+08-2024,Premium (95-97 RON) (ML),170.6,P95
+09-2024,Premium (95-97 RON) (ML),165.5,P95
+10-2024,Premium (95-97 RON) (ML),175.0,P95
+11-2024,Premium (95-97 RON) (ML),170.8,P95
+12-2024,Premium (95-97 RON) (ML),179.0,P95
+01-2025,Premium (95-97 RON) (ML),162.0,P95
+02-2025,Premium (95-97 RON) (ML),152.7,P95
+01-2024,Premium (98+ RON) (ML),271.3,P98
+02-2024,Premium (98+ RON) (ML),260.9,P98
+03-2024,Premium (98+ RON) (ML),281.4,P98
+04-2024,Premium (98+ RON) (ML),253.1,P98
+05-2024,Premium (98+ RON) (ML),273.9,P98
+06-2024,Premium (98+ RON) (ML),255.9,P98
+07-2024,Premium (98+ RON) (ML),270.9,P98
+08-2024,Premium (98+ RON) (ML),283.8,P98
+09-2024,Premium (98+ RON) (ML),284.1,P98
+10-2024,Premium (98+ RON) (ML),298.9,P98
+11-2024,Premium (98+ RON) (ML),290.3,P98
+12-2024,Premium (98+ RON) (ML),305.8,P98
+01-2025,Premium (98+ RON) (ML),276.1,P98
+02-2025,Premium (98+ RON) (ML),265.7,P98
+01-2024,Ethanol-blended fuel (ML),160.1,E10
+02-2024,Ethanol-blended fuel (ML),162.2,E10
+03-2024,Ethanol-blended fuel (ML),174.6,E10
+04-2024,Ethanol-blended fuel (ML),154.4,E10
+05-2024,Ethanol-blended fuel (ML),169.2,E10
+06-2024,Ethanol-blended fuel (ML),153.9,E10
+07-2024,Ethanol-blended fuel (ML),158.7,E10
+08-2024,Ethanol-blended fuel (ML),159.3,E10
+09-2024,Ethanol-blended fuel (ML),150.0,E10
+10-2024,Ethanol-blended fuel (ML),156.6,E10
+11-2024,Ethanol-blended fuel (ML),155.3,E10
+12-2024,Ethanol-blended fuel (ML),158.4,E10
+01-2025,Ethanol-blended fuel (ML),144.7,E10
+02-2025,Ethanol-blended fuel (ML),139.0,E10
+01-2024,Diesel oil: total (ML),2595.5,DL
+02-2024,Diesel oil: total (ML),2670.1,DL
+03-2024,Diesel oil: total (ML),2764.8,DL
+04-2024,Diesel oil: total (ML),2740.1,DL
+05-2024,Diesel oil: total (ML),3005.3,DL
+06-2024,Diesel oil: total (ML),2657.0,DL
+07-2024,Diesel oil: total (ML),2795.7,DL
+08-2024,Diesel oil: total (ML),2784.0,DL
+09-2024,Diesel oil: total (ML),2766.3,DL
+10-2024,Diesel oil: total (ML),2994.6,DL
+11-2024,Diesel oil: total (ML),2921.1,DL
+12-2024,Diesel oil: total (ML),2723.9,DL
+01-2025,Diesel oil: total (ML),2564.8,DL
+02-2025,Diesel oil: total (ML),2525.0,DL
+01-2024,Diesel oil: premium diesel (ML),,PDL
+02-2024,Diesel oil: premium diesel (ML),,PDL
+03-2024,Diesel oil: premium diesel (ML),,PDL
+04-2024,Diesel oil: premium diesel (ML),,PDL
+05-2024,Diesel oil: premium diesel (ML),,PDL
+06-2024,Diesel oil: premium diesel (ML),,PDL
+07-2024,Diesel oil: premium diesel (ML),,PDL
+08-2024,Diesel oil: premium diesel (ML),,PDL
+09-2024,Diesel oil: premium diesel (ML),,PDL
+10-2024,Diesel oil: premium diesel (ML),,PDL
+11-2024,Diesel oil: premium diesel (ML),,PDL
+12-2024,Diesel oil: premium diesel (ML),,PDL
+01-2025,Diesel oil: premium diesel (ML),,PDL
+02-2025,Diesel oil: premium diesel (ML),,PDL
+01-2024,LPG Automotive use (ML),18.5,LPG
+02-2024,LPG Automotive use (ML),20.2,LPG
+03-2024,LPG Automotive use (ML),20.0,LPG
+04-2024,LPG Automotive use (ML),19.2,LPG
+05-2024,LPG Automotive use (ML),19.6,LPG
+06-2024,LPG Automotive use (ML),18.4,LPG
+07-2024,LPG Automotive use (ML),20.0,LPG
+08-2024,LPG Automotive use (ML),17.2,LPG
+09-2024,LPG Automotive use (ML),20.6,LPG
+10-2024,LPG Automotive use (ML),22.2,LPG
+11-2024,LPG Automotive use (ML),20.5,LPG
+12-2024,LPG Automotive use (ML),23.2,LPG
+01-2025,LPG Automotive use (ML),20.4,LPG
+02-2025,LPG Automotive use (ML),19.1,LPG
